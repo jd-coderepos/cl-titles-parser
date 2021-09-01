@@ -1,0 +1,199 @@
+Text and speech processing
+Optical character recognition
+OCR
+Speech recognition
+Speech segmentation
+Text-to-speech
+Word segmentation
+Tokenization
+Morphological analysis
+Lemmatization
+Morphological segmentation
+Part-of-speech tagging
+Stemming
+Syntactic analysis
+Grammar induction
+Sentence breaking
+sentence boundary disambiguation
+Parsing
+Lexical semantics
+Distributional semantics
+Named entity recognition
+NER
+Sentiment analysis
+multimodal sentiment analysis
+Terminology extraction
+Word sense disambiguation
+Relational semantics
+Relationship extraction
+Semantic Parsing
+Semantic Role Labelling
+Discourse
+Coreference resolution
+Discourse analysis
+Implicit Semantic Role Labelling
+Recognizing Textual entailment
+Topic segmentation and recognition
+Higher-level NLP applications
+Automatic summarization
+text summarization
+Book generation
+Dialogue management
+Document AI
+Grammatical error correction
+Machine translation
+Natural language generation
+NLG
+Natural language understanding
+NLU
+Question answering
+Automated essay scoring
+Biomedical text mining
+Compound term processing
+Computational linguistics
+Computer-assisted reviewing
+Controlled natural language
+Deep learning
+Deep linguistic processing
+Distributional semantics
+Foreign language reading aid
+Foreign language writing aid
+Information extraction
+Information retrieval
+Language and Communication Technologies
+Language technology
+Latent semantic indexing
+Native-language identification
+Natural language programming
+Natural language search
+Query expansion
+Query understanding
+Reification
+Speech processing
+Spoken dialogue system
+Text-proofing
+Text simplification
+Transformer
+Truecasing
+Question answering
+Word2vec
+Context-free grammar
+CFG
+Constraint grammar
+CG
+Definite clause grammar
+DCG
+Functional unification grammar
+FUG
+Generalized phrase structure grammar
+GPSG
+Head-driven phrase structure grammar
+HPSG
+Lexical functional grammar
+LFG
+Probabilistic context-free grammar
+PCFG
+Stochastic context-free grammar
+SCFG
+Systemic functional grammar
+SFG
+Tree-adjoining grammar
+TAG
+Textual entailment
+Automated essay scoring
+AES
+Automatic image annotation
+Automatic summarization
+Keyphrase extraction
+Document summarization
+Multi-document summarization
+Extraction-based summarization
+Abstraction-based summarization
+Maximum entropy-based summarization
+Sentence extraction
+Aided summarization
+Human aided machine summarization
+HAMS
+Machine aided human summarization
+MAHS
+Automatic taxonomy induction
+Coreference resolution
+Anaphora resolution
+Dialog system
+Foreign-language reading aid
+Foreign language writing aid
+Grammar checking
+Information retrieval
+Cross-language information retrieval
+Machine translation
+MT
+Computer-assisted translation
+Interactive machine translation
+Example-based machine translation
+Rule-based machine translation
+Natural language programming
+Natural language search
+Optical character recognition
+OCR
+Question answering
+Open domain question answering
+Spam filtering
+Sentiment analysis
+Speech recognition
+Speech synthesis
+Text-to-speech
+Text-proofing
+Text simplification
+Natural language understanding
+Natural language generation
+Automatic document classification
+text categorization
+Automatic language identification
+Compound term processing
+Automatic taxonomy induction
+Corpus processing
+Automatic acquisition of lexicon
+Text normalization
+Text simplification
+Deep linguistic processing
+Discourse analysis
+Information extraction
+Text mining
+Biomedical text mining
+Decision tree learning
+Sentence extraction
+Terminology extraction
+Latent semantic indexing
+Lemmatisation
+Morphological segmentation
+Named entity recognition
+NER
+Ontology learning
+Parsing
+Shallow parsing
+Part-of-speech tagging
+Query expansion
+Relationship extraction
+Semantic analysis
+Explicit semantic analysis
+Latent semantic analysis
+Semantic analytics
+Sentence breaking
+sentence boundary disambiguation
+sentence detection
+Speech segmentation
+Stemming
+Text chunking
+Tokenization
+Topic segmentation and recognition
+Truecasing
+Word segmentation
+Word sense disambiguation
+WSD
+Word-sense induction
+Automatic acquisition of sense-tagged corpora
+W-shingling
+Natural language generation
+Automatic taxonomy induction
+ATI
+Document structuring

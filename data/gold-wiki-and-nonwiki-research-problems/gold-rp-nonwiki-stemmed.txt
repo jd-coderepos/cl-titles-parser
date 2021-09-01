@@ -1,0 +1,137 @@
+grammatical error correct
+textbook question answ
+semeval 2014 task 10
+semantic role label
+machine transliter
+speaker recognit
+morphological reinflect
+part of speech tag
+semeval 2018 task 10
+semeval 2018 task 11
+evaluating word predict
+many to one voice convers
+anaphora resolut
+word embed
+conll 2014 shared task
+term extract
+joint lemmatization and morphological tag
+semeval 2015 task 1
+conll 2013 shared task
+language independent named entity recognit
+language model
+conll 2012 shared task
+semantic textual similar
+conll 2011 shared task
+sign language recognit
+cross lingual phonetic representation learn
+sentence correct
+semeval 2013 task 7
+semeval 2017 task 1
+semantic similar
+semeval 2017 task 3
+semeval 2017 task 4
+semeval 2017 task 5
+semeval 2017 task 6
+semeval 2017 task 7
+visual and textual question answ
+multilingual part of speech tag
+cross level semantic similar
+aligning sent
+relationship extract
+clef question answering track
+mention ranking coreference model
+key term extract
+speech synthesi
+paraphrase detect
+sarcasm detect
+sentence boundary disambigu
+language ground
+language identif
+automatic speech recognit
+community question answ
+question answ
+conll 2005 shared task
+semeval 2014 task 1
+text simplif
+semeval 2014 task 3
+neural network translation model
+speaker authent
+zero shot transl
+phrase based machine transl
+sentiment analysi
+speaker diaris
+named entity disambigu
+large scale visual speech recognit
+named entity recognit
+semeval 2018 task 2
+semeval 2018 task 4
+story cloze test
+speaker verif
+semeval 2018 task 7
+neural paraphrase gener
+dialogue act detect
+machine transl
+neural word segmentation learn
+automatic text summar
+shallow discourse pars
+speech enhanc
+multilingual shallow discourse pars
+automated essay scor
+word predict
+machine comprehens
+sequence classif
+universal semantic pars
+natural language process
+neural semantic role label
+conll 2004 shared task
+weakly supervised spoken term discoveri
+speech recognit
+grapheme to phoneme convers
+conll 2003 shared task
+paraphrase gener
+visually grounded language learn
+deep reinforcement learn
+multi way neural machine transl
+deep semantic role label
+large scale supervised word sense disambigu
+speech segment
+voice convers
+transliter
+unsupervised lexicon discoveri
+open question answ
+fine grained sentiment analysi
+source separ
+subword neural machine transl
+pars
+multilingual emoji predict
+neural machine transl
+end to end speech synthesi
+word sense disambigu
+end to end speech recognit
+unsupervised machine transl
+multi document summar
+sigmorphon 2016 shared task
+textual entail
+unsupervised part of speech tag
+conll 2015 shared task
+morphological inflection gener
+text similar
+news 2016 shared task
+terminology extract
+conll 2016 shared task
+chinese word segment
+voice recognit
+conll 2017 shared task
+word segment
+semantic relation extraction and classif
+spoken term detect
+coreference resolut
+sentiment classif
+lemmatis
+automatic summaris
+sentence boundary detect
+humor and sarcasm detect
+entity link
+language recognit
+semeval 2016 task 8
+stem

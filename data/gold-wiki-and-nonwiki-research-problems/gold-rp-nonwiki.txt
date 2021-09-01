@@ -1,0 +1,137 @@
+end to end speech synthesis
+entity linking
+the conll 2004 shared task
+semeval 2014 task 10
+neural paraphrase generation
+the conll 2003 shared task
+parsing
+chinese word segmentation
+word segmentation
+speech recognition
+text similarity
+semeval 2018 task 10
+semeval 2018 task 11
+machine translation
+aligning sentences
+terminology extraction
+sentence boundary detection
+the conll 2005 shared task
+cross level semantic similarity
+speech segmentation
+semantic relation extraction and classification
+conll 2014 shared task
+semeval 2015 task 1
+conll 2013 shared task
+cross lingual phonetic representation learning
+semantic textual similarity
+neural semantic role labeling
+conll 2012 shared task
+word embeddings
+multi document summarization
+conll 2011 shared task
+semeval 2013 task 7
+semeval 2017 task 1
+morphological inflection generation
+unsupervised part of speech tagging
+semeval 2017 task 3
+semeval 2017 task 4
+semeval 2017 task 5
+semeval 2017 task 6
+automatic text summarization
+semeval 2017 task 7
+shallow discourse parsing
+end to end speech recognition
+clef question answering track
+coreference resolution
+automatic speech recognition
+term extraction
+grammatical error correction
+language identification
+many to one voice conversion
+neural word segmentation learning
+deep semantic role labeling
+text simplification
+word sense disambiguation
+deep reinforcement learning
+relationship extraction
+anaphora resolution
+semeval 2014 task 1
+visually grounded language learning
+semeval 2014 task 3
+natural language processing
+multi way neural machine translation
+question answering
+morphological reinflection
+neural network translation models
+spoken term detection
+semantic role labeling
+humor and sarcasm detection
+sarcasm detection
+large scale visual speech recognition
+semeval 2018 task 2
+speaker diarisation
+semeval 2018 task 4
+story cloze test
+language grounding
+speech enhancement
+transliteration
+sentence correction
+semeval 2018 task 7
+named entity recognition
+paraphrase generation
+multilingual shallow discourse parsing
+machine comprehension
+part of speech tagging
+multilingual part of speech tagging
+lemmatisation
+weakly supervised spoken term discovery
+paraphrase detection
+stemming
+community question answering
+neural machine translation
+universal semantic parsing
+evaluating word prediction
+sign language recognition
+speech synthesis
+sentiment analysis
+sentiment classification
+language modeling
+machine transliteration
+language independent named entity recognition
+textbook question answering
+source separation
+visual and textual question answering
+voice conversion
+joint lemmatization and morphological tagging
+voice recognition
+open question answering
+unsupervised machine translation
+subword neural machine translation
+speaker recognition
+speaker verification
+sequence classification
+the sigmorphon 2016 shared task
+semantic similarity
+unsupervised lexicon discovery
+mention ranking coreference models
+key term extraction
+zero shot translation
+word prediction
+speaker authentication
+automated essay scoring
+large scale supervised word sense disambiguation
+sentence boundary disambiguation
+conll 2015 shared task
+news 2016 shared task
+grapheme to phoneme conversion
+language recognition
+conll 2016 shared task
+fine grained sentiment analysis
+dialogue act detection
+conll 2017 shared task
+textual entailment
+named entity disambiguation
+automatic summarisation
+phrase based machine translation
+multilingual emoji prediction
+semeval 2016 task 8

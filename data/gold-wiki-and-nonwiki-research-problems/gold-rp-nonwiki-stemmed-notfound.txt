@@ -1,0 +1,23 @@
+many to one voice convers
+visual and textual question answ
+clef question answering track
+key term extract
+sentence boundary disambigu
+language ground
+neural network translation model
+speaker authent
+zero shot transl
+speaker diaris
+large scale visual speech recognit
+speaker verif
+dialogue act detect
+universal semantic pars
+weakly supervised spoken term discoveri
+multi way neural machine transl
+unsupervised lexicon discoveri
+source separ
+subword neural machine transl
+end to end speech synthesi
+news 2016 shared task
+voice recognit
+humor and sarcasm detect

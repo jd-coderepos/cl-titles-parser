@@ -1,0 +1,51 @@
+topic segmentation and recognit
+text and speech process
+book gener
+ocr
+scfg
+sentence detect
+language and communication technolog
+generalized phrase structure grammar
+machine aided human summar
+sentence boundary disambigu
+cg
+cfg
+stochastic context free grammar
+hams
+higher level nlp appl
+aided summar
+spam filt
+sfg
+fug
+automatic document classif
+foreign language reading aid
+document ai
+compound term process
+systemic functional grammar
+automatic acquisition of sense tagged corpora
+head driven phrase structure grammar
+ati
+abstraction based summar
+functional unification grammar
+human aided machine summar
+extraction based summar
+lexical functional grammar
+semantic analyt
+mahs
+text proof
+computer assisted review
+text to speech
+pcfg
+foreign language writing aid
+dcg
+sentence break
+constraint grammar
+automatic acquisition of lexicon
+aes
+maximum entropy based summar
+reific
+automatic language identif
+w shingl
+discours
+document structur
+truecas
