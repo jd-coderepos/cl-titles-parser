@@ -25,4 +25,4 @@ Clone this repository locally and run the parser as follows:
 where *input_file* is a file with the papers' titles to be parsed with a new title in each line and *output_data_dir* is a user-specified local directory where the parsed output from the program will be written.
 
 
-*Additional information on running the parser can be found* [here](https://github.com/jenlindadsouza/cl-titles-parser/blob/master/data/README.md)
+*Additional information on running the parser can be found* [here](https://github.com/jd-coderepos/cl-titles-parser/blob/master/data/README.md)
