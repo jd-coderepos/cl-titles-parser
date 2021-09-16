@@ -1,0 +1,5053 @@
+element	occurrence frequency
+word embeddings	77
+neural networks	63
+conditional random fields	51
+convolutional neural networks	41
+nlp	33
+smt	32
+spoken dialogue systems	32
+recurrent neural networks	29
+support vector machines	26
+bert	25
+wordnet	23
+deep neural networks	20
+use	16
+tools	16
+dialogue systems	16
+a tool	13
+framenet	13
+ccg	12
+transformers	12
+mt	12
+applications	12
+a framework	10
+a spoken dialogue system	10
+word embedding	10
+hpsg	10
+recurrent neural network	9
+an application	9
+application	9
+a machine translation system	9
+social networks	9
+a toolkit	9
+a unified framework	8
+convolutional neural network	8
+a dialogue system	8
+nlg	8
+wsd	8
+dialog systems	8
+tag	8
+a morphological analyzer	8
+graph convolutional networks	7
+referential translation machines	7
+mapreduce	7
+semantic networks	7
+lstms	7
+natural language interfaces	7
+ltag	7
+virtual environments	7
+phrase-based smt	6
+neural architectures	6
+dependency parsers	6
+a spoken dialog system	6
+a convolutional neural network	6
+a question answering system	6
+long short-term memory	6
+sentence embeddings	6
+cross-lingual word embeddings	6
+embeddings	6
+a dependency parser	6
+neural network	6
+a hybrid system	6
+conditional random field	5
+hierarchical phrase-based smt	5
+grammatical framework	5
+linear context-free rewriting systems	5
+bilingual word embeddings	5
+structured perceptron	5
+contextualized word embeddings	5
+an api	5
+cuni system	5
+wordnets	5
+deep recurrent neural networks	5
+a system	5
+a statistical parser	4
+neural word embeddings	4
+chinese ner	4
+pointer networks	4
+the rwth aachen machine translation system	4
+dependency parser	4
+transformer	4
+knowledge graph embedding	4
+hierarchical attention networks	4
+bidirectional lstm	4
+nmt	4
+an open source toolkit	4
+a development environment	4
+a general framework	4
+ir	4
+an evaluation framework	4
+software	4
+spoken dialog systems	4
+a virtual patient dialogue system	4
+lstm	4
+deep learning architecture	4
+a neural architecture	4
+crfs	4
+a parser	4
+spoken dialogue system	4
+joint embedding	4
+svm	4
+support vector machine	4
+a grammar checker	4
+an annotation tool	3
+multimodal conversational systems	3
+bayesian networks	3
+verbnet	3
+two sessions of tinlap-2	3
+top	3
+crf	3
+lda	3
+conversational systems	3
+a dialog system	3
+an open-source framework	3
+natural language generation systems	3
+a rule-based parser	3
+drt	3
+graph neural networks	3
+an efficient implementation	3
+stag	3
+multiple machine translation systems	3
+conversational agents	3
+uima	3
+ntou chinese spelling check system	3
+a natural language interface	3
+end	3
+a strong baseline	3
+a spoken language interface	3
+a software toolkit	3
+sense embeddings	3
+attention-based convolutional neural network	3
+elan	3
+the rwth system combination system	3
+a morphological parser	3
+long short-term memory networks	3
+a crowdsourced lexical-semantic network	3
+an integrated framework	3
+gf	3
+loria system	3
+deep convolutional neural networks	3
+graph convolutional network	3
+a search tool	3
+deep belief networks	3
+ontolex-lemon	3
+an intelligent tutoring system	3
+nooj	3
+svms	3
+an end-to-end system	3
+xml	3
+pdt	3
+a neural network	3
+character level convolutional neural network	3
+hindi wordnet	3
+ppm	3
+the internet	3
+end-to-end memory networks	3
+deep memory network	3
+a conceptual framework	3
+how	3
+a modular architecture	3
+the jhu machine translation systems	3
+an unsupervised system	3
+the lingo grammar matrix	3
+a speech translation system	3
+text-to-sql	3
+aid	3
+a multimodal dialogue system	3
+amr	3
+sketch engine	3
+contextualized embeddings	3
+community qa	3
+nlp applications	3
+smt systems	3
+a computational framework	3
+a maximum entropy classifier	3
+spoken language systems	3
+xmu neural machine translation systems	3
+diachronic word embeddings	3
+bidirectional recurrent neural networks	3
+task-oriented conversational agents	3
+classifiers	3
+a web application	3
+recursive neural networks	3
+dbpedia	3
+an hmm approach	2
+tei	2
+a web search engine	2
+a maximum entropy framework	2
+markov random fields	2
+topological fields	2
+dynamic bayesian networks	2
+siamese recurrent networks	2
+the lexical markup framework	2
+dual attention networks	2
+burst information networks	2
+nlp tools	2
+an open-source toolkit	2
+sanskrit wordnet	2
+a machine translation environment	2
+a semi-immersive command and control environment	2
+multi-class discrimination and some linguistic applications	2
+software applications	2
+a structure-sharing parser	2
+educational applications	2
+multilingual sentence embeddings	2
+language independent ner	2
+software tools	2
+the pronominal system	2
+an aac system	2
+the rwth aachen german-english machine translation system	2
+roberta	2
+a pointer network architecture	2
+cyc	2
+an interface	2
+multi-source transformer	2
+example-based mt	2
+a pos tagger	2
+the syntax-semantics interface	2
+hierarchical recurrent neural network	2
+multi-space variational encoder-decoders	2
+computer	2
+an online framework	2
+a beam-search decoder	2
+a bidirectional lstm	2
+bidirectional transformers	2
+real applications	2
+incorporating lexicon knowledge into svm learning	2
+natural language processing systems	2
+crf autoencoders	2
+the upv-prhlt combination system	2
+memory-augmented neural networks	2
+gpsg	2
+a web-based spoken dialogue agent	2
+hierarchical smt	2
+semantic parsers	2
+a museum environment	2
+mdl	2
+a natural language understanding system	2
+ucsynlp-lab machine translation systems	2
+korap	2
+the dop model	2
+finite-state machines	2
+american sign language (asl)	2
+internet	2
+an integrated system	2
+a phonological interface	2
+plwordnet	2
+interpretable word embeddings	2
+a flexible architecture	2
+a real-time spoken-language system	2
+neural machine translation system	2
+task-oriented dialogue systems	2
+himl (health	2
+sonlp-dp system	2
+covid-19	2
+morphological analyzer	2
+long short term memory networks	2
+a tutorial dialogue system	2
+computers	2
+english-hindi mt	2
+bi-lstms	2
+named entity recognition system	2
+retrieval-based dialogue systems	2
+babelnet	2
+a chinese named entity recognizer	2
+the ui system	2
+nlp-based information retrieval	2
+esl	2
+a conceptual frame and its application	2
+a connectionist architecture	2
+neural nlg	2
+improve chinese input system	2
+new tools	2
+a teacher-student framework	2
+a speech understanding system	2
+distantly supervised ner	2
+generative adversarial networks	2
+a graphical interface	2
+a web-based tool	2
+quest++	2
+vision-language interface	2
+community question answering systems	2
+a phrase-based statistical machine translation system	2
+a data-to-speech system	2
+the em algorithm	2
+sumo	2
+sls program	2
+multilingual nmt	2
+feature embeddings	2
+a constraint-based implementation	2
+the transformer architecture	2
+a factoid question answering system	2
+data-to-text systems	2
+an interactive system	2
+hierarchical attention network	2
+adaboost	2
+an on-line system	2
+capsule network	2
+go	2
+a deep learning system	2
+machine translation systems	2
+gate	2
+long short-term memory neural networks	2
+it	2
+a lfg-parser	2
+semantic role labeling systems	2
+l2	2
+a reductionistic parser	2
+finite state machines	2
+wet lab protocols	2
+a meta-bilstm model over context sensitive token encodings	2
+a deep architecture	2
+a multi-neuro tagger	2
+a test suite	2
+bi-directional lstm	2
+theory and implementation	2
+np alignment	2
+architectures	2
+piecewise convolutional neural networks	2
+accurat	2
+adversarial neural networks	2
+ulmfit	2
+a generalized framework	2
+an open-domain question answering system	2
+sentiment analyzer	2
+neural machine translation architectures	2
+chat-oriented dialogue systems	2
+a text input front-end processor	2
+ucca	2
+resources and tools	2
+a markov-logic network	2
+task-oriented dialogue system	2
+open-domain dialogue systems	2
+a spoken dialogue agent	2
+goal-oriented dialogue systems	2
+cuni nmt system	2
+pubmed	2
+xmg	2
+a test environment	2
+acl-2000 workshop	2
+deep architectures	2
+a wordnet based e-learning tool	2
+machine aided error-correction environment	2
+meta-share	2
+a guided composition system	2
+hmm-based word alignment	2
+the natural language toolkit	2
+an english-chinese machine translation system	2
+gated recursive neural network	2
+a decoder	2
+a transition-based dependency parser	2
+bidirectional lstms	2
+a probabilistic chart parser	2
+a network	2
+microphone-array systems	2
+a simple hybrid aligner	2
+the core language engine	2
+multi-task deep neural networks	2
+an example-based machine translation system	2
+chinese wordnet	2
+a novel neural network architecture	2
+a cross-lingual environment	2
+attentive recurrent neural networks	2
+nlp systems	2
+better word embeddings	2
+bidirectional long short-term memory networks	2
+a flexible framework	2
+hlt	2
+natural language interface	2
+english machine translation system	2
+multilingual bert	2
+a prototype system	2
+multi-sense word embeddings	2
+princeton wordnet	2
+senseval-3	2
+senseval-2	2
+japanese text input system	2
+lstm-based dependency parsing	2
+text classifiers	2
+lattice lstm	2
+recursive neural network	2
+an extensible framework	2
+capsule networks	2
+latent structural svm	2
+a new implementation	2
+pointer-generator networks	2
+dialog system	2
+a multilayer perceptron	2
+probabilistic linear context-free rewriting systems	2
+a flexible pragmatics-driven language generator	2
+an operations environment	2
+tree conditional random fields	2
+sub-word embeddings	2
+a common framework	2
+the mwetoolkit	2
+pre-trained transformers	2
+the request system	2
+a conditional random field framework	2
+bidirectional lstm-crf	2
+maximum entropy classifier	2
+bounded memory	2
+an integrated architecture	2
+a probabilistic framework	2
+linked wordnets	2
+a semantic network	2
+recurrent convolutional neural networks	2
+a natural language system	2
+domain adapted word embeddings	2
+humans and machines	2
+limited memory	2
+document embeddings	2
+an adversarial learning framework	2
+the excitement open platform	2
+c++	2
+an online platform	2
+the kit-limsi translation system	2
+a cascaded finite-state parser	2
+pivot-based smt	2
+promt systems	2
+ale	2
+natural language understanding systems	2
+statistical nlg	2
+multimodal transformer	2
+a text generation system	2
+dialect mt	2
+a graphical framework	2
+bmm-based chinese word segmentor	2
+lstm language models	2
+a graphical tool	2
+spoken language program	2
+tectomt	2
+deep lstm	2
+sheffield systems	2
+a flexible distributed architecture	2
+multiple classifiers	2
+a sentiment analyzer	2
+germanet	2
+different word embeddings	2
+a graphical user interface	2
+graph embeddings	2
+bag	2
+deep neural network	2
+large scale collocation data and their application	2
+an alternative lr algorithm	2
+buckwalter-based lookup tool	2
+spoken dialog system	2
+design and implementation	2
+guidelines and framework	2
+a multi-task learning framework	2
+a dp based search algorithm	2
+shared memory parallel machines	2
+transition-based parser	2
+a transition-based system	2
+an annotation framework	2
+end-to-end neural networks	2
+a transition-based parser	2
+a multilingual mt system	2
+upm system	2
+the mercury flight reservation system	2
+prefix-to-prefix framework	2
+weakly supervised attention networks	2
+tutorial applications	2
+stack-lstms	2
+construct a practical parser	2
+the palavras parser	1
+dynamic programming and pos tag lattice	1
+tdt	1
+an smt-solver	1
+mdl principle	1
+siamese convolutional networks	1
+character-based deep bidirectional lstms	1
+cnn- and lstm-based claim classification	1
+memory network	1
+effectively combining recurrent and convolutional neural networks	1
+an online weight loss application	1
+a bilingual automatic index system	1
+nrc parallel corpus filtering system	1
+contextually-based data-derived pronunciation networks	1
+computer-assisted translation tool	1
+italwordnet	1
+the meaning format	1
+effective lstms	1
+naver machine translation system	1
+the nl-generator	1
+a question-answering ehealth system	1
+a text representation system	1
+ntou chinese grammar checker	1
+the unified medical language system	1
+vae-pgn based abstractive model	1
+semantic frame embeddings	1
+a uniform interface	1
+a text-to-speech system	1
+a flexible tool	1
+upv-prhlt english--spanish system	1
+wordnet synsets (short paper)	1
+selectively incorporated concept embeddings	1
+create an adaptable relation extraction system	1
+tfg	1
+a word-level morphosyntactic analyzer	1
+a dictionary-based alignment system	1
+the nrc system	1
+a hybrid named entity recognition system	1
+tm and post editing interfaces	1
+a platform independent dependency annotation tool	1
+a large scale ranker-based system	1
+sentiment-specific word embeddings	1
+crfs-based chinese word segmentation	1
+a neural natural language interface	1
+rationale-augmented convolutional neural networks	1
+configurable semantic and sentiment emotion detector	1
+ethical research protocols	1
+an interactive machine translation system	1
+n-th order ergodic multigram hmm	1
+attentional lstm-cnn	1
+bve and mdl	1
+a computer-assisted language learning system	1
+applied nlg	1
+e-wer	1
+paraphrases and a morphology-aware neural network	1
+augmenting a bilstm tagger	1
+a gradient boosting classifier	1
+four spatial interfaces	1
+tensor product generation networks	1
+a	1
+ets lexical associations system	1
+japanese hpsg parsers	1
+emnlp 2020	1
+polymodal embedding	1
+the	1
+variational autoregressive decoder	1
+uir-miner	1
+mt systems	1
+timbl	1
+knowledge-augmented language model and its application	1
+character-aware embeddings	1
+multiple embeddings	1
+a robust parser	1
+rnn encoder-decoder	1
+a code-mixed environment	1
+english-to-arabic smt	1
+the duluth lexical sample systems	1
+heterogeneous graph attention networks	1
+extended models and tools	1
+basque wordnet	1
+linear svm weights	1
+a hybrid morphology-based pos tagger	1
+phrase tables and feed-forward neural networks	1
+bilexical embeddings	1
+integrated architecture	1
+multilingual hierarchical attention networks	1
+multilingual and cross-level semantic textual similarity systems	1
+road and transport networks	1
+hyperbolic capsule networks	1
+commercial environments	1
+fully connected neural network	1
+e-commerce platform	1
+seq2seq deep neural network	1
+an n-gram-based smt decoder	1
+a multi-attention based neural network	1
+an evaluation of statistical post-editing systems	1
+xml topic maps and xslt	1
+sumum	1
+a scalable summarization system	1
+an enhanced wordnet	1
+mt-systems	1
+spoken language applications	1
+algorithm and evaluation framework	1
+a cawg saga	1
+parameterized convolutional neural networks	1
+hyperbolic large-margin classifiers	1
+neural tensor network	1
+finite state automata framework	1
+a logic-driven framework	1
+multiple semantic role labeling systems	1
+a feature-rich two-stage classifier	1
+a discourse parser	1
+stack-pointer networks	1
+lr recursive transition networks	1
+nlg applications	1
+an integraged architecture	1
+recurrent memory networks	1
+read and comprehend	1
+the 2016 u.s. presidential debate	1
+a dutch text-to-speech system	1
+learn cross-lingual word embeddings	1
+dynamic meta-embeddings	1
+document-level graph convolutional neural network	1
+multi-task neural networks	1
+an integrated language understanding system	1
+a multi-modal documentation system	1
+two-phase shift-reduce deterministic dependency parser	1
+feature-based system	1
+nlp support	1
+hybrid rnn plus rule-based approach	1
+a scientific portal generator	1
+wat 2018	1
+the grammatical framework (gf)	1
+computer assisted translation tool	1
+an empathetic virtual agent	1
+online search interface	1
+an ers model	1
+the clint buchanan hyperpartisan news detector	1
+the nemlar project	1
+the darpa spoken language program	1
+an english reading tool	1
+memory graph networks	1
+arabic fst morphology	1
+self-attentive hybrid gru-based network	1
+the multisom model	1
+the parsing environment	1
+end-to-end trainable attentive decoder	1
+a multilabel bert-based system	1
+a sub-character architecture	1
+ccg parsing algorithm	1
+machine translation system	1
+multi-sense vector embeddings	1
+nlp--based readability assessment	1
+two-stage synthesis networks	1
+low-dimensional embeddings	1
+learning crf models	1
+matchlstm	1
+xml schema based metadata management system	1
+contextual natural language processing and daml	1
+korean conjugation system and its application	1
+convolutional text graph classifiers	1
+open source toolkit	1
+fine-grain morphological analyzer and part-of-speech tagger	1
+the field	1
+dependency and phrase structure parsers	1
+a dop model	1
+a multi-modal telephone directory assistance system	1
+a domain independent dialogue system	1
+a data-driven robust question-answering system	1
+a transition-based verbal multiword expression tagger	1
+online forum summarisation at multiling 2015	1
+a maximum entropy-based tagger	1
+a recursive recurrent neural network	1
+a public reference implementation	1
+graph-based semi-supervised conditional random fields	1
+max-margin tensor neural network	1
+an out-of-domain test suite	1
+bilingual unsupervised wsd	1
+the lre map	1
+english-to-german statistical mt	1
+a two-stage classifier	1
+a crf sequence labeling approach	1
+conversational memory network	1
+svm kernel methods	1
+deep-syntax tectomt	1
+an combined sentiment classification system	1
+the grain release	1
+end-to-end argument generation system	1
+multimodal interfaces	1
+cnn	1
+a redundancy-aware sentence regression framework	1
+triplet networks	1
+skos and dbpedia	1
+the cued hifst system	1
+a thai text-to-speech system	1
+word co-occurrence networks	1
+cross-encyclopedia entity embedding	1
+the tf-idf approach	1
+adaptive tutorial dialogue systems	1
+achieve an accurate real-time large-vocabulary speech recognition system	1
+computational linguistics applications	1
+the output embedding	1
+punjabi language stemmer	1
+a translation environment	1
+document retrieval system	1
+a transliteration and script conversion system	1
+propositional semantic networks	1
+an lda-based topic selection approach	1
+new algorithms and evaluation protocols	1
+language-centric and human-centric ai	1
+teitok	1
+knowledge and text jointly embedding	1
+multi-channel graph neural network	1
+the lt3 clpsych 2016 shared task system	1
+lab	1
+a bayesian framework	1
+a multilingual generation framework	1
+platforms	1
+multimodal logical inference system	1
+attentive graph convolutional networks	1
+neural graph matching networks	1
+lexically scaled maxent	1
+intel ai lab	1
+a probabilistic lr parsing system	1
+a gui	1
+better relative position embeddings	1
+the gf resource grammar library	1
+an interpretable reasoning network	1
+a reinforcement learning environment	1
+sshoc repository	1
+a support platform	1
+human mediated lemmatizer	1
+topp meets hpsg	1
+a web-based system	1
+a neural part-of-speech tagger	1
+an amr aligner tuned	1
+morphologically-enriched embeddings	1
+an efficient statistical speech act type tagging system	1
+a dialog architecture	1
+a fully automatic nmt and word embeddings method	1
+a radial basis function svm	1
+open-domain knowledge and image grounded conversational agents	1
+cqa	1
+a multi-task architecture	1
+bilstm-crf models	1
+the mira framework	1
+distilled test suites	1
+domain-adversarial neural networks	1
+cql	1
+the ontolearn system	1
+contextualized sense embeddings	1
+a supervised directional similarity network	1
+a mmsm-based hybrid method	1
+deep bi-directional long short-term memory networks	1
+map estimation and the perceptron algorithm	1
+a dialog-based platform	1
+a uniform architecture	1
+word cohesiveness and conditional random fields	1
+iterative rectification network	1
+an end-to-end environment	1
+tilde mt platform	1
+text graph transformer	1
+metis-ii	1
+end-to-end network	1
+hidden markov model and svm plus sigmoid	1
+the controll system	1
+create cutomizable finite-state tools	1
+efficient sentence embedding	1
+a temporal expression recognition system	1
+a pipelined nlp architecture	1
+tools and data (sdctd 2012)	1
+a multi-party virtual human dialogue system	1
+the isl phrase-based mt system	1
+an algerian corpus and an annotation platform	1
+a lexicalized text generation system	1
+a semantic tool	1
+a baseline system	1
+robust nlp	1
+user-centered tipster technology	1
+wordnet.pt	1
+densely connected lstm and multi-task learning	1
+different languages a computer based system	1
+commercial and operational nlp applications	1
+a generate-and-rank framework	1
+a correlational encoder decoder architecture	1
+approximate inference network	1
+a vocabulary learning system	1
+pre-trained deep bidirectional transformers	1
+multimodal differential network	1
+physically situated environments	1
+a task-based framework	1
+the open multilingual wordnet	1
+the dldp survey	1
+non-lexical neural architecture	1
+indonesian wordnet	1
+croatian wordnet	1
+personalized dialogue agents	1
+the nlp world	1
+an implemented hpsg	1
+a multi-word term extraction program	1
+sentence-level multilingual multi-modal embedding	1
+dependency-based discourse parser	1
+a large-vocabulary bilingual speech recognition system	1
+an svm ensemble system	1
+a self-learning context-aware lemmatizer	1
+structured fusion networks	1
+key-value memory networks	1
+a java-based framework	1
+content guided answer search system	1
+a stacked bilstm architecture	1
+dynamic dependency networks	1
+callhome spanish	1
+a vague sense classifier	1
+nugget proposal networks	1
+lighter feed-forward networks	1
+lfg	1
+french-english phrase-based smt	1
+a verb class identifier	1
+an unsupervised morpheme-based hmm	1
+seq2tree network	1
+medical ir	1
+synthetic paragram embeddings	1
+a dual-attention hierarchical recurrent neural network	1
+discriminative cluster embeddings	1
+hidden markov-based part-of-speech tagger	1
+a general second-order rnn	1
+adaptive multi-pass decoder	1
+a data-driven co-reference resolver	1
+postech	1
+fast-paced interactive dialogue systems	1
+a deep recurrent neural network	1
+two	1
+a transition-based directed acyclic graph parser	1
+a multi-task incremental learning framework	1
+a text retrieval system	1
+a distributed architecture	1
+web resources and other wordnets	1
+cluster-gated convolutional neural network	1
+a rule-based mt system	1
+fine-tuned bert	1
+two systems	1
+multi-granularity hierarchical attention fusion networks	1
+smt and tm	1
+owid and elexiko	1
+an lstm adaptation study	1
+syntactically controlled paraphrase networks	1
+an alignment visualization tool	1
+a spanish pos tagger	1
+hierarchical matching network	1
+a block-based robust dependency parser	1
+dataset and baseline	1
+an ensemble valence-arousal analysis system	1
+a syntax-based machine translation system	1
+textimager	1
+a cognitive-based annotation system	1
+method and application	1
+a pac-bayesian approach	1
+meta-reinforced multi-domain state generator	1
+cuni transformer neural mt system	1
+tree kernel-based svm	1
+heterogeneous multi-layer network representation and embedding	1
+optimal ensembling (oe) method	1
+morphological word embeddings	1
+recursive convolutional neural network	1
+logistic online learning methods and their application	1
+graph based neural networks	1
+a morphological tagger	1
+a spoken language query translator	1
+a unified neural architecture	1
+multilingual environments	1
+the ecess framework	1
+transformer and seq2seq model	1
+lstms and sentiment scores	1
+the framenet methodology	1
+lis	1
+1937	1
+a hybrid markov/semi-markov conditional random field	1
+improve a speaker diarisation tool	1
+a subjective logic framework	1
+edr and wordnet	1
+linear svms and neural networks	1
+deep pyramid convolutional neural networks	1
+a pdp architecture	1
+conceptnet 5	1
+definitional qa	1
+a flexible and easy-to-use semantic role labeling framework	1
+an information retrieval system	1
+neunlplab chinese word sense induction system	1
+uniparser and the eanc platform	1
+a deep syntax framework	1
+character-aware decoder	1
+a web-based annotation framework	1
+the swedish framenet	1
+textract architecture and data model	1
+neural embeddings	1
+an existing syntactic parser	1
+memory	1
+a linguistic and a statistical tagger	1
+convolutional neural network and conditional random fields	1
+standard arabic resources and tools	1
+structural embedding	1
+talp system	1
+cclinc	1
+gradient boosting regression tree method and bidirectional lstm	1
+procedural texts and pt-chart	1
+real life application	1
+a sentence realization system	1
+a pipeline of classifiers	1
+densely connected recurrent neural networks	1
+fishwatchr mini	1
+distributional inclusion vector embedding	1
+a pulsed neural network	1
+attribute-aware embeddings	1
+semi-automatic verb frame annotator tool	1
+clef	1
+a novel hierarchical bert architecture	1
+mind your inflections! improving nlp	1
+a maximum-entropy partial parser	1
+sentences into a c-net	1
+heterogeneous memory networks	1
+a supervised similarity network	1
+the nomad collaborative annotation tool	1
+a robust high-performance parser and generator	1
+language processing systems	1
+semantic class induction and its application	1
+the word count system	1
+deep learning word embeddings	1
+rdf triple stores and a custom sparql front-end	1
+phoneme-based aac systems	1
+dr-link	1
+context-dependent bert	1
+a general-purpose tagger	1
+cross-lingual data and recurrent neural networks	1
+a connectionist parser	1
+an efficient and user-friendly tool	1
+french statistical machinetranslation system	1
+fast hash-based embeddings	1
+an open-source shallow-transfer machine translation engine	1
+inter-sentential transformer	1
+word and character n-gram embeddings	1
+iterative user interfaces	1
+a semi-automatic annotation tool	1
+deep syntactic layer	1
+wordnet senses that occur frequently	1
+simple learning and compositional application	1
+a spanish tagger	1
+top-1 search result	1
+the infinite hmm	1
+a workflow management system	1
+bi-directional lstms and multi-task learning	1
+integrated speech/language systems	1
+an open network	1
+character-based word embeddings	1
+developments at ari	1
+an automatic prosody tagger	1
+indian languages machine transliteration system at news 2010	1
+lifelong learning crf	1
+k-max pooling cnn	1
+use svm	1
+federated language resource architecture	1
+bert and gpt2	1
+cnns and lstms	1
+sense definition embeddings	1
+a user and nlp-assisted strategic workflow	1
+a deep learning and knowledge transfer based architecture	1
+a constraint-based morphological analyzer	1
+context-free parsers	1
+a lexical semantic network	1
+example-based speech intention understanding and its application	1
+the rosetta system	1
+chinese temporal system	1
+a surprisingly effective out-of-the-box char2char model	1
+eurotra	1
+an adaptive framework	1
+the edinburgh/lmu hierarchical machine translation system	1
+attention-based neural network	1
+an improved chinese word segmentation system	1
+the gene regulation network	1
+a prolog-based machine translation system	1
+a domain-independent assessment system	1
+synchronous double-channel recurrent network	1
+a fast and scalable data cleaning system	1
+multi-encoder transformer network	1
+the biutte research platform	1
+a knowledge-based report generator	1
+deep convolutional networks	1
+genre separation network	1
+context embeddings and wordnet	1
+multi-ensemble bi-gru model	1
+clir	1
+sparql	1
+a knowledge-based machine-aided system	1
+nominal open ie	1
+pos-tagged corpus development	1
+dnn framework	1
+a turbo semantic parser	1
+tree-structured recursive neural networks	1
+summa	1
+car environment	1
+the structure of a syntactic processor	1
+distributed word representations improve ner	1
+x2 method	1
+parallel recurrent neural networks	1
+an information fusion engine	1
+deep vector embeddings	1
+multi-user environments	1
+hierarchical embeddings	1
+integrated tools	1
+the pompeu fabra open rule-based generator	1
+intelligent systems	1
+a holistic natural language generation framework	1
+tensor fusion network	1
+parseme survey	1
+a knowledgeable path generator	1
+an element-wise visual-enhanced bilstm-crf model	1
+a dual-attention network	1
+jointly learning semantic parser and natural language generator	1
+prpn	1
+entity library	1
+the prague dependency treebank 3.0	1
+lsa	1
+wikipron	1
+turkish machine translation system	1
+attention-based blstm-crf architecture	1
+domain-specific word embeddings	1
+language embeddings	1
+eth z\"urich team	1
+the jarap experimental system	1
+chatbot engines	1
+granska--an efficient hybrid system	1
+statistical transfer systems	1
+transferable deep global match network	1
+dirichlet latent variable hierarchical recurrent encoder-decoder	1
+naist-nict neural machine translation system	1
+a structured syntax-semantics interface	1
+common space embedding	1
+fine-grained pre-trained embeddings	1
+continuous latent space and neural networks	1
+a tailored pcfg parser	1
+a parallel proposition bank ii	1
+an interpretable neural network	1
+a unification-based parser	1
+sparse svms and part-of-speech n-grams	1
+advanced tools	1
+the talp-upc phrase-based translation system	1
+german verb patterns and their implementation	1
+the edinburgh/jhu phrase-based machine translation systems	1
+em-based hybrid model	1
+the flarenet network of excellence	1
+consensus attention-based neural networks	1
+a proof system	1
+the uzh system combination system	1
+feature embedding	1
+cfg based grammar checker	1
+error correction tools	1
+cnn and lstm-based language model	1
+multimodal clinical nlp	1
+off-the-shelf text analysis software	1
+constrained smt	1
+a linked data based platform	1
+energy-based inference networks	1
+formal systems	1
+textual inference applications	1
+shared phonological coding between asl signbank and asl-lex	1
+nlp workshop 2019	1
+a practical application	1
+ugc	1
+a spoken dialogue translation system	1
+the language grid and uima	1
+punjabi machine translation system	1
+computational framework	1
+target-guided structured attention network	1
+multitask neural networks	1
+an english-lithuanian smt system	1
+multi-channel lexicon integrated cnn-bilstm models	1
+l1-regularized crfs	1
+an opennmt model	1
+a recurrent neural network	1
+neural adaptation layers	1
+inference protocols	1
+iwslt2020	1
+shared sentiment prediction layer	1
+distributed modules for text annotation and ie	1
+a personal information retrieval system	1
+the metalex approach	1
+target suites	1
+easy	1
+speech-activated text retrieval system	1
+the promt translation technology	1
+glyph-aware embedding	1
+the rosetta machine translation system	1
+multilingual graphemic hybrid asr	1
+an open source package	1
+domain-aware feature embeddings	1
+agentivity and concretenessa computational classification experiment	1
+an event search system	1
+a search engine	1
+a graph-search framework	1
+bayes point machines	1
+smt helping smt	1
+a robotic agent	1
+the brazilian portuguese grammar checker	1
+visually attacking and shielding nlp systems	1
+a discocat	1
+dcu combination system	1
+a frame-based probabilistic framework	1
+clsd	1
+probabilistic cfg	1
+uplug and siteseeker	1
+t-crf model	1
+systran purely neural mt engines	1
+topicbert	1
+the meta-share metadata schema	1
+sound systems	1
+ntumt strategy	1
+a factorial hmm approach	1
+a practical qa system	1
+corpus coherence combining open source annotators	1
+echo-state networks	1
+very deep convolutional networks	1
+crfs and normalization	1
+re-read lstm unit	1
+fully quantized transformer	1
+an online tool	1
+act-r	1
+france telecom r\&d beijing word segmenter	1
+their field	1
+a human-robot dialogue system	1
+multilingual automatic speech-to-speech translator	1
+an open source process engine framework	1
+speech recognition application	1
+jointly trained embeddings	1
+a graf-compliant indonesian speech recognition web service	1
+a hierarchical location prediction neural network	1
+bootcat	1
+rdf and owl	1
+low-resource (en-gu) and coreference-aware (en-de) systems	1
+computational processing of portuguese at inesc	1
+factored machine translation systems	1
+a spanish-basque mt system	1
+a mobile touchable application	1
+and without neural networks	1
+iso 24617-2	1
+a light weight stemmer	1
+demographic word embeddings	1
+a gated self-attention memory network	1
+bidirectional rnn	1
+max-margin markov networks	1
+fulltext search engines	1
+sighan bake-off 2013	1
+a new minimally-supervised framework	1
+a typed feature structure implementation	1
+a domain-adaptable system	1
+a voice-based human-computer interface	1
+a rule-based morphological analyzer	1
+an integration platform	1
+multi-hop qa	1
+a parallel chart parser	1
+an asynchronous agent-based architecture	1
+the ilp-based systems	1
+a meta question answering system	1
+linguistically regularized lstm	1
+distantly supervised neural network	1
+german reddit exchanges (gerede)	1
+ilr-based mt comprehension test	1
+a robust preprocessor	1
+an extensible multi-domain spoken dialogue system	1
+the visual and natural language specification tool	1
+berkeley framenet	1
+the bulgarian wordnet	1
+a head-lexicalized pcfg	1
+the syntalex approach	1
+a thai speech translation system	1
+a human-machine collaborative chinese classical poetry generation system	1
+the iate rdf example	1
+open source wfst tools	1
+a multi-stage clustering framework	1
+a concept recognizer	1
+multilingual emoji prediction multi-channel convolutional neural network	1
+multi-timescale long short-term memory neural network	1
+probabilistic embedding	1
+vanilla classifiers	1
+subsentential translation memory	1
+the car	1
+relational graph attention network	1
+neural networks and a word2vec based model	1
+support new interfaces	1
+the saultc application	1
+neural networks and markov logic networks	1
+linguistic predication networks	1
+fortran	1
+latent code and text-based generative adversarial networks	1
+bref	1
+factorized transformer	1
+neural network and textrank	1
+a simple unsupervised learner	1
+svm classification and domain knowledge	1
+standard nlp toolkits	1
+a visual programming framework	1
+unl	1
+simple recurrent neural networks	1
+the construction grammar framework	1
+fbis seminar	1
+database design and implementation	1
+a phonological processor	1
+frame-semantic parser	1
+a stacked generalization based classifier	1
+english-to-korean rule-based machine translation system	1
+clean and noisy environments	1
+ibm watson	1
+a task-oriented dialogue system	1
+a bidirectional framework	1
+srcb neural machine translation systems	1
+eurowordnet	1
+an information extraction system	1
+a statistical machine translation system	1
+hierarchical attention based position-aware network	1
+an open-source smt decoder	1
+naist at wat2015	1
+efficient higher-order crfs	1
+stacked classifiers	1
+universal dependencies version 2	1
+a multi-modal local search application	1
+bit chinese spelling correction system at clp 2014 bake-off	1
+a keyword-based monolingual sentence aligner	1
+fear	1
+the same system	1
+mandarin chinese formation rules and parser implementation	1
+knowa	1
+framenet and wordnet	1
+greek word embeddings	1
+rule 2	1
+joint bootstrapping machines	1
+an lfg+glue perspective	1
+tildener	1
+knowledge-based semantic embedding	1
+focused rnns	1
+a multilingual natural-language interface	1
+machine translation (wmt19)	1
+universal conceptual cognitive annotation (ucca)	1
+the qemp corpus and the biodivtagger	1
+multi-level architecture	1
+a pomdp-based multimodal interaction system	1
+the janus natural language processor	1
+adaptive multi-pass memory network	1
+a generalized uima-based framework	1
+a railway information system	1
+the annis interface	1
+nineteenth-century job advertisements. the application	1
+agreement under itg constraint	1
+a terminology-based literature mining and knowledge structuring system	1
+the ntou cged system	1
+dirichlet-smoothed word embeddings	1
+the svm	1
+a context-aware rnn	1
+weak semi-markov crfs	1
+assamese wordnet based quality enhancement	1
+text-to-speech systems	1
+the janus natural language interface	1
+nactem eventmine	1
+humans versus machines	1
+machine translation (wmt18)	1
+long-short range context neural networks	1
+mar	1
+generative pretrained transformers	1
+gated self-matching networks	1
+a cloud environment	1
+an active learning system	1
+hamlet vs termostat	1
+a lexical co-occurrence network	1
+a generalized knowledge hunting framework	1
+context-based unknown word identifier	1
+iit bombay@iwslt2020	1
+the wat2015 workshop	1
+an experimental parser	1
+a large-scale machine translation system	1
+polyglotie	1
+adaptive attentional network	1
+svm classification	1
+a rule-based arabic stemmer	1
+machine translation (wmt17)	1
+a web-based collaborative evaluation tool	1
+an ontology-based semantic tagger	1
+two transition-based neural parsers	1
+the kyoto text analysis toolkit	1
+the grammar development environment	1
+graph attention networks	1
+the fifth ntcir workshop	1
+a syntactic framework	1
+greval test suite	1
+a text-based query interface	1
+principled frameworks	1
+the mt-system	1
+modern digital dictionary interfaces	1
+branch-lstm	1
+bleu is not suitable	1
+stack lstms	1
+xml-based corpora development system	1
+a phrase-based hmm approach	1
+the brwac	1
+named entity recognition over wet lab protocols	1
+perspective and bert	1
+a stacked bilstm	1
+the sarah-jane-smith hyperpartisan news detector	1
+rich features based svr	1
+use convolutional neural network	1
+alignment over heterogeneous embeddings	1
+idiap nmt system	1
+a document-level decoder	1
+assess mt adequacy	1
+a strong but simple baseline	1
+bidirectional lstm feature representations	1
+improve a patient-information nlg system	1
+group recurrent networks	1
+variable acoustic environments	1
+a powerful parser	1
+single sequence-to-sequence architectures	1
+an unsupervised parser	1
+an architecture	1
+a risk minimization framework	1
+a two-level classifier	1
+task-oriented natural language interfaces	1
+multilingual applications	1
+read linear learning framework	1
+a cross-encyclopedia,cross-language article-linking system and web-based search interface	1
+user interfaces	1
+end-to-end shared weight lstm model	1
+mrmf	1
+an algorithmic framework	1
+heterogeneous memory	1
+language independent transliteration mining system	1
+semi-automatic annotation tool	1
+bert is unstable	1
+an arabic tweets sentiment analysis dataset (atsad)	1
+a stack decoder	1
+forensic applications	1
+preliminary lexical framework	1
+an algorithm and toolkit	1
+a bi-directional lstm	1
+a scalable open source package and online technology management application	1
+a computational morphology system	1
+our neural machine translation systems	1
+bigram hmm	1
+dts	1
+chain based rnn	1
+olympics-oriented mobile game news ordering system	1
+the lapps grid	1
+a flexible pos tagger	1
+language technology resources and tools	1
+multimodal neural graph memory networks	1
+context-informed embeddings	1
+toward an nlg system	1
+pooled contextualized embeddings	1
+dependency-based mt	1
+an education and research tool	1
+an english hindi mt system	1
+dilated convolutional attention network	1
+character checking system	1
+dynamic weighting neural network	1
+word-pair identifier	1
+a lstm approach	1
+delayed tree-local mc-tag	1
+a graphical parametric language-independent tool	1
+multi-choice question answering system	1
+hybrid attention based multimodal network	1
+legalruleml	1
+sentence meta-embeddings	1
+a self-serve multi-domain goal oriented dialogue platform	1
+declarative implementations	1
+automated essay scoring system	1
+an intelligent language tutoring system	1
+deep pre-trained embeddings	1
+800 words/sec	1
+unstructured multi-turn dialogue systems	1
+evaluate automated scoring systems	1
+dependency graph convolutional networks	1
+context-sensitive smt	1
+a preprocessor	1
+improve summarization encoder memory	1
+parameter sharing between dependency parsers	1
+adaptive recursive neural network	1
+additive noise environments	1
+a conceptual dependency parser	1
+the wip project	1
+learn bilingual word embeddings	1
+fine-tuned bert based language model	1
+a sentence simplification system	1
+discourse chunking and its application	1
+the rali machine translation system	1
+japanese and american sign language dictionary system	1
+uxo	1
+the framenet transformer	1
+an asr environment	1
+a joint segmentation and classification framework	1
+the hunvec framework	1
+speech and ocr	1
+yet another word alignment tool	1
+an m.s. program	1
+spoken user interfaces	1
+a maintenance tool	1
+generative adversarial network	1
+dynamic memory induction networks	1
+the morp system	1
+characterise the n400m neural response	1
+an mt system	1
+speech recognition system	1
+pjait systems	1
+variable-level noisy environments	1
+graph metric embeddings	1
+the wordframe model	1
+english-czech phrase-based mt	1
+genetic algorithm (ga) implementation	1
+a deep learning-based system	1
+a pattern-based neural network	1
+latent affective folding and embedding	1
+an adaptive dialogue agent	1
+a query tool	1
+the evalita experience	1
+a real-time implementation	1
+dynamic fusion network	1
+generic nlp tools	1
+design philosophy and system architecture	1
+an encyclopedic dictionary of a specific field	1
+sublanguage embeddings	1
+multi-level memory	1
+lexical gaps when building aligned multilingual wordnets	1
+diachronic embeddings	1
+a simple but effective baseline	1
+proof-net interfaces	1
+mixed embeddings	1
+multi-strategy system	1
+evaluating lstm models	1
+a high accuracy lemmatizer	1
+a freely available morphological analyzer	1
+o(n\^3)	1
+an ensemble cnn method	1
+spectral embedding	1
+a portable and effective ie system	1
+the pml-tq	1
+a hybrid gpu-cpu embedded platform	1
+first broadcast news transcription system	1
+inference rules and their application	1
+dialogue system	1
+croatian nerc system	1
+a practical text summarizer	1
+a network framework	1
+neural memory	1
+a unified framework and a text-to-sql case study	1
+toward a controlled english grammar checker	1
+on-trac consortium	1
+the nabu system	1
+a wizard-of-oz versus automated system	1
+a speech retrieval system	1
+full memory	1
+tied-multi transformers	1
+a localized feature selection framework	1
+a transformer-based baseline system	1
+method51	1
+learner language and the cefr	1
+an hmm-based chunk tagger	1
+mirror instances and a combined convolutional neural network	1
+yet another $0(n^6)$ recognition algorithm	1
+the textplanning component pit	1
+sinaweibo	1
+multi-class svm	1
+word and sentence embeddings	1
+a web-scale linguistic search engine	1
+a context-sensitive spell checker	1
+the itsvox system	1
+tsr filtering method	1
+lvcsr system	1
+a naive bayes wsd system	1
+sucre	1
+automatically constructed annotators	1
+gradient feature extractor and cosine distance based multiclass k-nearest neighbor classifier	1
+delph-in tools	1
+a fully expanded wfst model	1
+transportable natural language processor	1
+transfer capsule network	1
+the semantic-syntactic interface	1
+a template based data2text system powered	1
+a wide-coverage word sense disambiguation system	1
+multi-channel convolutional neural network	1
+mt-based cross-language information retrieval	1
+a japanese parser	1
+cross-lingual embedding	1
+partial hypotheses combination over multiple smt systems	1
+sentiment lexicons and embeddings	1
+inner attention sentence embedding	1
+mmr	1
+multilingual unsupervised nmt	1
+the c4.5 learning algorithm	1
+semi-parametric multi-head matching networks	1
+linguistically motivated large-scale nlp	1
+optimal memory	1
+the graph approach	1
+feature-rich networks	1
+an embodied dialogue system	1
+the learner	1
+a simple convolutional neural network	1
+cross-lingual embeddings	1
+an interactive multi-task learning network	1
+useful software	1
+japanese all-words wsd system	1
+cic-fbk approach	1
+linear-chain conditional random fields	1
+a structure-enhanced graph convolutional network	1
+a chomsky-sch\"utzenberger n-best parser	1
+attribute-aware sequence network	1
+bart	1
+error- and grammaticality-specific word embeddings	1
+semantic roles within a reconstruction-error minimization framework	1
+small feed-forward networks	1
+earnings call transcript embeddings	1
+kernel embeddings	1
+latent predictor networks	1
+a rule-driven dynamic programming decoder	1
+polish (lcm-pl)	1
+advance preprocessor	1
+expert systems and ccg	1
+speech translation system	1
+the demon system	1
+a reversible architecture	1
+scarrie	1
+text transcription system	1
+the afrl wmt-14 system	1
+multiple lexical tag layers	1
+a hybrid morphological disambiguation system	1
+rest api based nlg microservice	1
+additive neural networks	1
+the malach project	1
+svm answer selection	1
+a real-time system	1
+a rich environment	1
+text embeddings	1
+a mixture-of-experts framework	1
+maxout pointer and gated self-attention networks	1
+a comprehensive semantic search engine	1
+a metric-based framework	1
+a non-projective greedy dependency parser	1
+the sighan bakeoff 2007	1
+the fog system	1
+a deep system	1
+memory augmented neural networks	1
+investigating lstms	1
+the min-cut classification framework	1
+a new predictive analyzer	1
+agfl	1
+a neural framework	1
+an ontology-driven system	1
+two open-source tools	1
+local tonal f0 and global speech rate	1
+cdec and transcenter	1
+semantically inspired amr alignment	1
+wordnet website development and deployment	1
+web service integration platform	1
+hit-irlab	1
+factorized tag/tig parsers	1
+ontology-aware token embeddings	1
+inner attention based recurrent neural networks	1
+fully convolutional asr	1
+bidirectional generative adversarial networks	1
+a multimodal system	1
+event extraction systems	1
+open source corpus analysis tools	1
+b-lstm \& crf	1
+verb argument browser	1
+mrd	1
+wordnets and grammatical framework	1
+a self-organizing japanese word segmenter	1
+hmm word alignment	1
+ccg and guided search	1
+a nil-aware answer extraction framework	1
+testsuite	1
+a multiparty virtual chat agent	1
+statistical morphological analyzer	1
+giza++	1
+a simple and effective dependency parser	1
+crf-lstm text mining method unveiling the pharmacological mechanism	1
+support super-vector machines	1
+attention-based bilstm models	1
+the rosetta stone tm	1
+a comprehensive online system	1
+tsl syntax	1
+the team 6 approach	1
+recurrent interaction network	1
+jointly learning author and annotated character n-gram embeddings	1
+an efficient bottom-up parser	1
+semantic-based parsing and a natural-language interface	1
+new measures and a pos induction case study	1
+the cmu large scale chinese-english smt system	1
+integrating bidirectional lstm	1
+chinese morphological analyzer	1
+electronic dictionaries and nooj	1
+mso	1
+bert model	1
+a framenet-based semantic role labeler	1
+wsd systems	1
+an off-the-shelf language identification tool	1
+a constraint grammar framework	1
+bidirectional long short-term memory neural network	1
+pagerank topic model	1
+non-task-oriented conversational systems	1
+grobid	1
+knowledgeable machines	1
+multi-task learning framework	1
+an annotated corpus and baseline classification system	1
+discourse-aware hierarchical attention network	1
+flexible interfaces	1
+2000 joint sigdat conference	1
+a kdd ontology (kddo1)	1
+a critt tpr-db-based study	1
+stacked bidirectional lstms	1
+poly2	1
+the french jeuxdemots lexical semantic network	1
+german smt	1
+doc2vec	1
+bootstrap domain-specific sentiment classifiers	1
+multi-instance multi-label learning networks	1
+linguistically informed deep neural networks	1
+a statistical parts-of-speech tagger	1
+transformer networks at fever	1
+discourse-level abstract meaning representation annotation framework	1
+the comic fission module	1
+a new approach toward multilingual qa	1
+spanish-basque smt	1
+an open package	1
+an incremental data-driven dependency parser	1
+a transcript-based query and browsing interface	1
+a multimedia indexing and searching environment	1
+a purely end-to-end system	1
+the ua-prompsit hybrid machine translation system	1
+fbk@iwslt2020	1
+turboparser	1
+computational frameworks	1
+the bbn delphi system	1
+the delphi system	1
+discourse marker augmented network	1
+the syntax/semantics interface	1
+the eutrans system	1
+word-level convolutional neural networks	1
+recursive neural structural correspondence network	1
+a cultural heritage digital library	1
+selected tools	1
+industrial applications	1
+multilingual deterministic dependency parsing framework	1
+a minimalist implementation	1
+a maximum entropy tagger	1
+a blackboard architecture	1
+nested ner	1
+two-stage svm and post-processing	1
+a gesture-controlled mobile spoken dialogue system	1
+a symbolic parser	1
+iit (bhu) system	1
+adam- an architecture	1
+hierarchical attention prototypical networks	1
+multi-level matching and aggregation network	1
+associative memory	1
+tv programs	1
+intelligent agents	1
+cist system	1
+alert messages and protocols	1
+two end-to-end shallow discourse parsers	1
+the dutch semantic lexical database cornetto	1
+logic based systems	1
+a rule-based shallow-transfer machine translation system	1
+a conditional variational framework	1
+the nbu platform	1
+improved semantic parsers	1
+a new iso standard	1
+clir performance	1
+a speech-based e-mail system	1
+the spoken language translator	1
+a high quality partial parser	1
+tagml	1
+combined tree kernel-based classifiers	1
+crosslingual word embeddings	1
+a new application	1
+nlp system performance	1
+posbiotm-ner	1
+advisory systems	1
+gate-a general architecture	1
+the conceptmapper approach	1
+a sentence judgment system	1
+bilingual word embedding	1
+effective mentor suggestion system	1
+an open-domain semantic parser	1
+joint label embedding	1
+chinese-to-korean machine translation system	1
+hybrid inflectional stemmer and rule-based derivational stemmer	1
+language processing r\&d programmes directorate xiii e	1
+tts \& ocr	1
+neural crf model	1
+sentence-level lstm language models	1
+the wordseye linguistics tool	1
+a spigot	1
+the isocat data category registry	1
+deep belief nets	1
+the multistore parser	1
+simulated annealing (opteca)	1
+real world voice assistant system	1
+a multiple-document summarization system	1
+pretrained embeddings	1
+eunomos a tool	1
+generative domain-adaptive nets	1
+the easy-first dependency framework	1
+applying the tarsqi toolkit	1
+global features and root node finder	1
+the universit\"at karlsruhe translation system	1
+a simulation and generation environment	1
+an open-source nlp library	1
+a freely available wide coverage morphological analyzer	1
+vocbench 3	1
+folk-gold ? a gold standard	1
+the ontoselect ontology library	1
+a dependency-based neural network	1
+the uiuc model	1
+a lightweight recurrent network	1
+an english-chinese example and its application	1
+ant colony system	1
+the tipster text program	1
+character-aware neural networks	1
+rasp4uima	1
+bottleneck adapter layer	1
+a computational learning system	1
+a neural event classifier and an explanation decoder	1
+class-based lstm russian language model	1
+the dcu-ictcas mt system at wmt 2014	1
+pedagogical environment	1
+pretrained swedish embeddings	1
+\$100	1
+a software environment	1
+associated memory network	1
+phoneme-to-text transcription system	1
+professional translation environments	1
+two mobile spoken language systems	1
+a cnn attention mechanism	1
+evaluate a grammar checking application	1
+a statistical tool	1
+bulgarian framenet	1
+an adaptable tutorial dialogue system	1
+a broad-coverage normalization system	1
+a flexible xml-based regular compiler	1
+italian sign language (lis)	1
+virtual environments (give-2.5)	1
+pilot implementation	1
+syntactically informed phrasal smt	1
+the parsetalk model	1
+span-based localizing network	1
+a lda-based topic classification approach	1
+chinese idiom knowledge-base and its applications	1
+a spreading activation framework	1
+a new fast and accurate arabic word segmenter	1
+a linear-time transition system	1
+named entity tagging and ie pattern discovery	1
+an encoding strategy based word-character lstm	1
+visual user interface	1
+a multi-domain translation model framework	1
+the talp-upc ngram-based statistical machine translation system	1
+mlp-cnn model	1
+maximum entropy tagging and svm reranking	1
+social qa	1
+neu systems	1
+hfst-lexc	1
+context analysis system	1
+discourse-aware entailment reasoning network	1
+a virtual environment	1
+a pcfgla lattice parser	1
+the pioquinto manterola hyperpartisan news detector	1
+multi-view adaboost	1
+dependency based embeddings	1
+gf wide-coverage english-finnish mt system	1
+msfa	1
+a decision stump meta-classifier	1
+a spoken language dialogue system	1
+speech recognition applications	1
+a novel transition system	1
+nlp serving the cause	1
+long short-term memory network	1
+a multi-resolution framework	1
+a discrete-cepstrum based spectrum-envelope estimation scheme and its example application	1
+large feature vectors and regularized classifiers	1
+a lexical database tool	1
+the lmu munich unsupervised machine translation system	1
+pos-tagger	1
+cross-lingual information retrieval system	1
+structure-aware transformer	1
+the lrec map	1
+universal schema and memory networks	1
+character-based neural networks	1
+cjk intelligent information retrieval	1
+glove vectors and svm	1
+an educational application	1
+ressources and java software application	1
+an open-source unification-based system	1
+the acl anthology	1
+finite state applications	1
+node embeddings	1
+tree-based smt	1
+bridge correlational neural networks	1
+lingo	1
+typed feature systems	1
+the dobes project	1
+semantic network array processor	1
+svms and neural networks	1
+robust chinese parser	1
+bert and svms	1
+the infinite pcfg	1
+kurd	1
+the context feature structure system	1
+a pcfg	1
+an instruction system	1
+an integrated tool	1
+lstms exploit linguistic attributes	1
+a hybrid discourse relation parser	1
+19th century and modern finnish newspaper material	1
+an automatic chinese document revision system	1
+classifiers and embeddings	1
+recurrent support vector machines	1
+the design of comparative and evaluative question answering systems	1
+a rnn based question generation model	1
+a collaborative framework	1
+a physically situated conversational agent	1
+nell	1
+principle-based parsers	1
+symmetric pattern based word embeddings	1
+a probabilistic finite state machine	1
+a ccg approach	1
+spoken language proficiency assessment applications	1
+crf-based sentence boundary detection	1
+svm ensembles	1
+an rnn-based binary classifier	1
+poc-nlw template	1
+cross-lingual wsd	1
+the computational implementation	1
+deep learning model roberta	1
+naist at wat 2014	1
+ntcir-4 workshop	1
+portuguese named entities recognition tools	1
+neural tree indexers	1
+a speech-based just-in-time retrieval system	1
+the ddi approach	1
++-20years +-data +-features +-multimodal +-bioplausible	1
+attention-based bi-lstms	1
+multi-task attention-based neural networks	1
+dialogued systems	1
+neighborhood matching network	1
+root-word based recurrent neural networks and deep neural networks	1
+computational and psycholinguistic applications	1
+stack long short-term memory	1
+dialogue vector models and recurrent neural networks	1
+metaphor processing systems	1
+nondeterministic finite-state machines	1
+an np-cluster based approach	1
+hierarchical meta-embeddings	1
+a skos-based schema	1
+postech grammatical error correction system	1
+real environments	1
+a simulation-based framework	1
+depth-bounded pcfg	1
+neural math word problem solver	1
+a supervised system	1
+the entire pubmed	1
+features and neural networks	1
+support-vector machines	1
+chinese hpsg framework	1
+the dcr assessment paradigm	1
+mrls and a case study	1
+a neural network statistical parser	1
+community qa repository	1
+c4.5	1
+a korean-to-japanese mt system	1
+a classifier-based parser	1
+a grounded unsupervised universal part-of-speech tagger	1
+a phrase-structured grammatical framework	1
+densely connected networks	1
+multilingual medical ner	1
+drop-out conditional random fields	1
+a sentiment-controllable topic-to-essay generator	1
+lstm language models and lexical ambiguity	1
+an automatic system	1
+the attention sum reader network	1
+an arabic question answering system	1
+a web-based instructional platform	1
+integrate multiple rule-based machine translation engines into a hybrid system	1
+a combination of neural networks and svm	1
+retrieval memory	1
+elmo-based system	1
+nict/atr chinese morphological analyzer	1
+remastered estonian nlp pipeline	1
+svm model tampering and anchored learning	1
+an incremental robust parser	1
+neural dialogue systems	1
+let mt simplify and speed up your alignment	1
+an hdp model	1
+cross language faq retrieval	1
+five-lingual code-switched asr	1
+evaluating a bi-lstm model	1
+audio spectrograms and convolutional neural networks	1
+a web based general thesaurus browser	1
+the centering framework	1
+neural module networks	1
+from 100	1
+lr parsers	1
+a high speed transcription interface	1
+unsupervised word influencer networks	1
+isolated word recognition system	1
+macaon an nlp tool suite	1
+an analogical parser	1
+the nlg pipeline architecture	1
+amharic dependency parser	1
+a training system	1
+a move-eager left-corner minimalist grammar parser	1
+character-level recurrent and convolutional neural networks	1
+the lei system	1
+an end-to-end chinese discourse parser	1
+a supervised aggregation framework	1
+state-of-the-art dialogue systems	1
+attention-based hierarchical neural networks	1
+chinese srl	1
+multi-column convolutional neural networks	1
+indian language ner	1
+english-czech deep syntactic mt	1
+xslt	1
+arabic wordnet	1
+multilingual embeddings	1
+an interactive virtual environment	1
+example-based transfer systems	1
+gtcom neural machine translation systems	1
+sign-language translation system	1
+seq2(seq)2	1
+a deep convolutional neural network	1
+accurat toolkit	1
+the acl special interest group	1
+off the shelf compression software	1
+a multi-task annotation tool	1
+locality sensitive hashing and word embeddings	1
+the porsimples project	1
+attention-based bidirectional lstm	1
+multi-task label embedding	1
+wysiwym	1
+scientific biomedical texts spanning over 168 years annotated	1
+neural nlp	1
+tree-structured conditional random fields	1
+the greedy algorithm and its application	1
+compositional code embeddings	1
+text system	1
+an enhanced automatic speech recognition system	1
+a language-independent neural network	1
+pearl	1
+phrase-based mt	1
+multi-tape two-level morphology	1
+a complete integrated nlg system	1
+a regularization-based framework	1
+a two stage sentiment analyzer	1
+japanese wordnet	1
+czech wordnet	1
+rectifier networks	1
+bilstm	1
+a python geotagging tool	1
+temporally expressive networks	1
+a bayesian decision framework	1
+parametric speech synthesizer	1
+an automatic speech understanding and dialog system	1
+a maximum expected utility framework	1
+the si-nets paradigm	1
+bertserini	1
+an integrated language resource evaluation platform including a comprehensive uima resource library	1
+a diglossic environment	1
+multi-task learning and bert	1
+provide language-encoding support and an nlp friendly editor	1
+a recognizer	1
+a multi-stage memory augmented neural network	1
+the new thot toolkit	1
+recommend	1
+the senseval-2 test suite	1
+a new multilingual llod	1
+a basic framework	1
+japio at wat2016	1
+a thesaurus and the mdl principle	1
+7th workshop	1
+a computational architecture	1
+japio at wat2017	1
+a large parallel czech-english corpus czeng 0.9	1
+deep structured prediction library	1
+a two-step named entity recognizer	1
+a practical tagger	1
+cross copy network	1
+lfg is a corollary	1
+a back-end speech-to-text system	1
+graf	1
+static embeddings	1
+a korean knowledge extraction system	1
+an integrated parser	1
+interactive entity networks	1
+multiple choice cnn over contextual embedding	1
+nlu	1
+efficient search tool	1
+conditional random fields (crfs)	1
+an approximate embedding layer	1
+a bidirectional bottom-up parser	1
+topic models and support vector machine	1
+a spoken language user interface toolkit	1
+nmf	1
+graph transformation system	1
+bidirectional recursive neural networks	1
+an adaptive spoken dialogue system	1
+type-oriented ilp	1
+hebrew ehr	1
+word sense induction and disambiguation within an end-user application	1
+modular architectures	1
+the word embeddings	1
+word embedding language divergence (weld)	1
+emotion-oriented neural attention network	1
+multi-turn reasoning neural networks	1
+diagnostic classifiers	1
+a translation system	1
+an open-source java library	1
+multimedia environments	1
+fast and robust pos tagger	1
+ubiquitous environment	1
+a collaborative annotation tool	1
+a three embeddings recurrent neural network	1
+probabilistic ltag	1
+a transfer-based translation system	1
+speech recognition simulation and its application	1
+a syntax-aware encoder and decoder	1
+a statistical part-of-speech tagger	1
+a question-answering system	1
+formally non-typed systems	1
+syntax-aware multi-task graph convolutional networks	1
+an open-source library and tool	1
+the acl/dci	1
+dynamic knowledge graph embeddings	1
+cmu haitian creole-english translation system	1
+on-line help system neoassist	1
+three bionlp tools powered	1
+plwordnet and a comparison	1
+ant and xslt	1
+a new smt framework	1
+crf autoencoder	1
+a syntactic and morphological analyzer	1
+an efficient parser generator	1
+graph-theoretic tools	1
+modified ltse-vad algorithm	1
+extensive interoperable toolkit	1
+the carsim system	1
+appraise evaluation framework	1
+a principles-and-parameters parser	1
+universal api	1
+main memory database systems	1
+imperfect mt	1
+shallow domain adaptive embeddings	1
+sejong semantic classes and korlex	1
+co-ordinate anaphora resolution and pps disambiguation process	1
+a novel framework	1
+interpolated deep neural networks	1
+sclera2cornetto	1
+a pos-based ensemble model	1
+give 2.5	1
+graph and text joint embedding	1
+a free/open source platform	1
+full-network embedding	1
+nps	1
+natural language processing at bbn laboratories	1
+the nict-2 neural machine translation system at wat2017	1
+a prolog implementation	1
+a theoretical account and its application	1
+a multi-pass architecture	1
+a named entity recognizer	1
+a graph-theoretic framework	1
+skip-chain conditional random fields	1
+the geppetto development environment	1
+the foks system	1
+four factor framework	1
+task-oriented dialog systems	1
+hierarchical neural networks	1
+language id	1
+the engcg parser	1
+a medium-vocabulary medical speech translation system	1
+sequential neural networks	1
+double-dop	1
+query openstreetmap	1
+language processing systems and its application	1
+dctfinder	1
+a python toolkit	1
+ibm model 2	1
+a three stage hybrid parser	1
+a constrained speech system	1
+logic programming tools	1
+personalized neural embeddings	1
+a novel neural architecture	1
+joint multi-label attention networks	1
+the jaist machine translation systems	1
+a multilayered analysis system	1
+a cognitive architecture	1
+an adaptable lexical simplification architecture	1
+an open-source natural language generator	1
+bioasq 2016	1
+bioasq 2017	1
+kernel pca	1
+lstc system	1
+a flexible conversational dialog system	1
+a gru-svm model	1
+a new dop model	1
+the direct-info scenario	1
+web services architecture	1
+hierarchically-attentive rnn	1
+??????????????????(speech attributes optimization modeling and application	1
+the mdl principle	1
+uw nlp system	1
+customer service agents versus intelligent virtual agents	1
+chinese classifiers	1
+multi-view unsupervised user feature embedding	1
+a bilingual generative transformer	1
+an example-based japanese proofreading system	1
+sentence embedding	1
+bidirectional rnn-crf	1
+the cyc kb	1
+dialogpt	1
+automatic question generation 2013-2018	1
+an mrd	1
+partially supervised neural network	1
+numeral classifier	1
+english universal dependency parsers	1
+an rcg-based parser	1
+a rule system	1
+the iiit-h gujarati-english machine translation system	1
+an on-line translating dialogue system	1
+web	1
+a novel system	1
+the acorformed system	1
+the abc	1
+embedding	1
+a semantic analyzer	1
+the blcu system	1
+the smart classifier	1
+rbmt systems	1
+end-to-end slu	1
+opennlp and uima	1
+corpora and processing tools	1
+a unified rvnn framework	1
+a latent variable recurrent neural network	1
+syntactic parsers	1
+amharic wordnet	1
+toward a multidimensional framework	1
+constant memory	1
+a stack-propagation framework	1
+cabinet protocols	1
+tarsqi	1
+dag-structured long short-term memory	1
+a novel hardware-aware framework	1
+from corenet	1
+distributed document and phrase co-embeddings	1
+a simplification-translation-restoration framework	1
+incremental mt	1
+microsoft language understanding intelligent service (luis)	1
+isr-wn	1
+contextual network	1
+a fast and furious segmenter	1
+trans-dimensional random fields	1
+dynamic semantic matching and aggregation network	1
+a finite-state parser	1
+word re-ordering and dp-based search	1
+word embeddings and neural networks	1
+combined systems	1
+a unification-based mt system	1
+a danish text-to-speech system	1
+parafac	1
+bilingual bert	1
+a trainable transfer-based mt approach	1
+support statistical mt	1
+translate snomed ct terms into basque	1
+multi-modal attentional hierarchical rnn	1
+the umus system	1
+structural svm	1
+jointly modeling wsd and srl	1
+improve chinese word embeddings	1
+an ibm-pc environment	1
+constitutent structure grammars into connectionist networks	1
+neural encoder-decoders	1
+multilingual nlp	1
+news 2009	1
+a multimodal home entertainment interface	1
+a3-108 machine translation system	1
+cached long short-term memory neural networks	1
+topic memory networks	1
+acl 2013 multiling workshop	1
+automatic speech recognition and its application	1
+a web-based english proofing system	1
+ai and nlu tools	1
+nict-naist system	1
+order (an lfg-proposal	1
+set-valued items (masi)	1
+non-negative sparse embedding	1
+why	1
+automatic evaluation of chinese input method engines	1
+sonar	1
+rnn encoder--decoder	1
+dependency-based convolutional neural networks	1
+a linguistically-motivated text understanding system	1
+a three-phase system	1
+error-driven hmm-based chunk tagger	1
+personalized pagerank	1
+the camomile platform	1
+chinese domain knowledge dictionary and its application	1
+efficient context and schema fusion networks	1
+computational creativity tools	1
+oahpa! \~opi! opiq! developing free online programs	1
+the tigr system	1
+an interesting but challenging application	1
+label embeddings	1
+constituency and dependency trees into an ensemble dependency parser	1
+cooperative question-answering systems	1
+a general regularization framework	1
+bert and elmo	1
+a sequential matching framework	1
+em decipherment	1
+a chart-based framework	1
+knowledge-enriched transformer	1
+a meta-data driven platform	1
+practical application	1
+a semantic based question answering system	1
+nlp found helpful (at least	1
+smoothed lexical features and a maximum margin classifier	1
+a low-resource hybrid mt system	1
+tencent neural machine translation systems	1
+adversarial connective-exploiting networks	1
+xtag	1
+selectively overwriting memory	1
+gurmukhi transliteration system	1
+english ne transliteration tool	1
+lstm-based recurrent neural networks	1
+biological taxonomy \& ontology phrase extraction system	1
+improve a very fast vine parser	1
+a confusion network	1
+feedforward neural network	1
+a continuous improvement framework	1
+a trace tagger	1
+an improved crf based chinese language processing system	1
+totrtale and xix century slovene	1
+random fields	1
+a tdt demonstration system	1
+a large-scale pseudoword-based evaluation framework	1
+deep neural solver	1
+fopc	1
+phrase- and n-gram-based statistical machine translation systems	1
+the jets japanese-english machine translation system	1
+open source multi-platform nooj	1
+ubiu	1
+character-level intra attention network	1
+a psycholinguistically motivated parser	1
+a morpheme-based part-of-speech tagger	1
+a text engineering framework	1
+bert and fasttext embeddings	1
+bilingual word-embeddings	1
+a parallel augmented context-free parsing system	1
+the seventh ntcir workshop	1
+experiments adapting an open-domain question answering system	1
+hmm word-to-phrase alignment	1
+a visual analytics system	1
+wmt news 2019	1
+comparing cnn and lstm character-level embeddings	1
+a stochastic finite-state morphological parser	1
+a standard representation framework	1
+a ccg-based approach	1
+an interactive tool	1
+a causal framework	1
+domain adversarial neural network	1
+a syntactic-semantic bayesian hmm	1
+global relation embedding	1
+knowledge and research collaboration platform	1
+dependency sensitive convolutional neural networks	1
+reliable optimization and evaluation of machine translation systems	1
+bigodm system	1
+pre-trained semantic dependency parser	1
+multi-view domain adapted sentence embeddings	1
+an efficient easily adaptable system	1
+english wordnet	1
+goal-oriented spoken dialog systems	1
+graph exploration and cross-lingual word embeddings	1
+korean-to-japanese mt system	1
+unified encoder-to-biaffine network	1
+a natural language database access system	1
+caregiver	1
+bilstms and the impact	1
+nokia research center beijing chinese word segmentation system	1
+word alignment tool	1
+pomdp framework	1
+mcfg input syntax	1
+eurotra-d	1
+woz	1
+conversational ai	1
+elmo	1
+an intelligent text adaptation tool	1
+embedded machine translation systems	1
+product-level speech system	1
+improved word embeddings	1
+re-engineer a hands-on introductory nlp course	1
+transductive svm	1
+adversarial category alignment network	1
+the rldcp r package	1
+lstm-based mixture-of-experts	1
+tensor2tensor	1
+the mate workbench	1
+base-np chunking and its role	1
+neural context embeddings	1
+a single perceptron	1
+an automated essay scoring system	1
+rst discourse parsers	1
+serious game environments	1
+a low-budget tagger	1
+a word sense disambiguation system	1
+some language resources and tools	1
+japanese tree adjoining grammar and its application	1
+data query language and corpus tools	1
+the dipinfo-unito system	1
+ga	1
+linguistically enhanced deep learning offensive sentence classifier	1
+design a visual text analytic system	1
+convolutional interaction network	1
+different input systems	1
+voice user interfaces	1
+multimodal relational tensor network	1
+a ccg fragment	1
+a fast rule-based information extraction framework	1
+efficient convolutional neural networks	1
+evalita 2007	1
+an earley-type recognizer	1
+the slt system	1
+a supervised learning framework	1
+1st sigdial workshop	1
+clare	1
+untrained annotators	1
+the chinese dependency network	1
+webanno	1
+web-based annotation tool	1
+triad-based neural network	1
+cosma	1
+a crf-based classifier	1
+a distributed multi-agent architecture	1
+lattice transformations and graph networks	1
+chinese spoken language processing applications	1
+a dependency framework	1
+contrast classifiers	1
+enhanced lstm	1
+stylescorer	1
+a situation theoretic framework	1
+multi-domain spoken dialogue system	1
+a configurable annotation workbench	1
+software that generates multiple choice question (mcq) test items automatically	1
+deep lstm based feature mapping	1
+an lfg account	1
+a stylometry toolkit	1
+an ocr	1
+bert-based method	1
+the casen named entities recognition system	1
+a robust parallel text sentence aligner	1
+lattice transformer	1
+if	1
+incremental dialogue systems	1
+a knowledge acquisition and management system	1
+the linguistic component of metal	1
+a confidence-based framework	1
+pundit	1
+the talk in-car system	1
+multi-modal generative adversarial network	1
+incremental environment	1
+word embedding tools	1
+a prototype english-japanese machine translation system	1
+a deterministic parser	1
+the 1st workshop	1
+a graph-based lattice dependency parser	1
+lx-suite	1
+scan both left and right	1
+elra	1
+an incremental right-corner parser	1
+development and application	1
+a kernel pca method	1
+kachako api	1
+a differential lsi method	1
+taln-ls2n system	1
+a statistical machine translation toolkit	1
+a programmable multi-blackboard architecture	1
+a collaborative environment	1
+a dialogue agent	1
+sheng1 and yin1	1
+an open source python-based keyphrase extraction toolkit	1
+word embeddings and convolutional neural network	1
+an efficient language independent toolkit	1
+the spanish senseval	1
+simple nlp tools	1
+a semi-automatically generated tag	1
+tmu japanese-chinese unsupervised nmt system	1
+character and word level smt pipeline	1
+the merlin learner corpus platform	1
+a chinese automatic text summarization system	1
+library	1
+a unifying framework	1
+hybrid code networks	1
+an interactive predictive parsing framework	1
+high throughput modularized nlp system	1
+graph-state lstm	1
+peace machine	1
+cat tools	1
+an arabic-to-turkish machine translation system	1
+a corpus study and a semi-supervised classification system	1
+sidgrid	1
+a classifier	1
+a flexible language acquisition tool kit	1
+medical concept embeddings	1
+vector quantised variational autoencoder	1
+plsi	1
+deep factorization machines	1
+a digital computer	1
+edinburgh neural machine translation systems	1
+neural associative memory	1
+kx	1
+conditional random fields and support vector machines	1
+linear kernel support vector machines	1
+an extensible system	1
+a generic interface	1
+a recurrent bert-based model	1
+lif and mmif	1
+the naturalowl system	1
+a grammar checking system	1
+aspect-augmented adversarial networks	1
+hierarchical partial-label embedding	1
+an english japanese machine translation system	1
+an entity-based storage system	1
+the jena annotation environment (jane)	1
+the arabic writing systems	1
+smor	1
+interlingual mt	1
+m\	1
+robust text classifier	1
+morphology grounded subword-level nmt	1
+a pipeline japanese entity linking system	1
+knowledge-based wsd	1
+a scalable probabilistic classifier	1
+a two-stage discriminative parser	1
+large pretrained transformers	1
+structured transformers	1
+mcmc	1
+the clare system	1
+a corpus and a framework	1
+bilingual neural networks	1
+augmentative communication systems	1
+low-snr car environments	1
+the 5th workshop	1
+a globally normalized bert model	1
+a hybrid human-robot interaction system	1
+a forward-dp backward-a* n-best search algorithm	1
+an example-based chinese word segmentation system	1
+a model and tools	1
+a hybrid rule/model-based finite-state framework	1
+lexical markup framework (lmf)	1
+confusionset-guided pointer networks	1
+nominal srl	1
+stevin	1
+lstm-networks	1
+efficient hierarchical entity classifier	1
+a rule-based chinese system	1
+context dependent deep neural network	1
+memory-enhanced conditional random fields	1
+a linguistically-informed search engine	1
+semantic interfaces	1
+a multi-teraflop constituency parser	1
+np	1
+itnlp-aikf at semeval-2016 task 3 a quesiton answering system	1
+a multinomial naive bayes classifier	1
+extractive narrativeqa	1
+a web-based architecture	1
+propbank vs. verbnet	1
+the romanian wordnet	1
+grammar checkers	1
+a boosted deep system	1
+two generation systems	1
+english--to--german smt	1
+an efficient and accurate dop model	1
+segment-based translation memory	1
+a qualitative evaluation framework	1
+a gamified platform	1
+microsoft web n-gram corpus and applications	1
+gaussian lda	1
+a character level convolutional bilstm	1
+a segmentation tool	1
+parallel corpus creation and mt augmentation approach	1
+passive diagnosis incorporating the phq-4	1
+abstract syntax networks	1
+an end-to-end deep framework	1
+efficient and effective training of neural networks	1
+an english generator	1
+temporal restricted boltzmann machines	1
+ccg and penn treebank parsers	1
+segmentation-free word embedding	1
+a bilstm model	1
+cofi	1
+an xml approach	1
+a skip-chain conditional random field	1
+content-based news recommender systems	1
+the wat2014 workshop	1
+multimodal systems	1
+variable-order crfs and structured sparsity	1
+a stochastic topological parser	1
+the linux operating system	1
+soft-masked bert	1
+evaluate an nlg system	1
+n-gram embeddings	1
+hindi machine transliteration system	1
+a discriminative framework	1
+a rational agent	1
+qa	1
+grammatical gender systems	1
+an improved sub-sentential aligner	1
+multi-grained attention network	1
+siamese neural networks	1
+tree-lstms	1
+the rwth machine translation system	1
+an open-source starter-kit	1
+vowel systems	1
+an improved statistical transfer system	1
+tanka	1
+multi-graph embeddings	1
+humanities and social sciences openedition.org	1
+a multilingual probing suite	1
+a siamese network	1
+contextualized relation embedding	1
+bam! born-again multi-task networks	1
+the rumors system	1
+embedded-state latent conditional random fields	1
+cross-lingual nlp	1
+a simple surface realizer	1
+1996-98	1
+korean multiple subject constructions (mscs)	1
+an information extraction core system	1
+a probabilistic morphological analyzer	1
+a reference implementation	1
+a two-stage framework	1
+the sonar corpus interfaces	1
+home-care environments	1
+lexical dependency into a rule-based parser	1
+author embeddings	1
+patent nmt integrated	1
+a virtual world environment	1
+a machine learning-based coreference detection system	1
+albert-bilstm	1
+a python library	1
+a hierarchical domain model-based multi-domain selection framework	1
+a japanese dependency parser	1
+a real-life language tutoring system	1
+guo1 and guo2	1
+a multilingual parser	1
+the tmeko editing protocol	1
+neural and statistical mt	1
+rnn embeddings	1
+a left corner parser	1
+a document production environment	1
+the perceptron hmm algorithm	1
+a discriminative graph-based parser	1
+a hedgehop over a max-margin framework	1
+a bi-directional lstm-cnn model	1
+semi-supervised simhash	1
+a linguistically fed crf model	1
+the bbn byblos speech recognition system	1
+a crf method	1
+french l2 and a system	1
+svms and crfs	1
+one	1
+a browser-based tool	1
+the banking system	1
+phrase-level self-attention networks	1
+a statistical parsing framework	1
+the evaluation of dictation systems	1
+a java framework	1
+gated recursive semi-markov conditional random fields	1
+onr	1
+the tarsqi toolkit	1
+end-to-end offline speech translation system	1
+a text mining tool	1
+an american sign language generator	1
+a neural network architecture	1
+a simplified chinese parser	1
+an efficient context-free parser	1
+an nlp pipeline	1
+a new open-source machine translation platform	1
+a real-time spoken language system	1
+the usl system	1
+an lstm-based architecture	1
+naive bayesian classifier	1
+semantically-aligned universal tree-structured solver	1
+bilstm-based dependency parsers	1
+low-resource asr	1
+the development of a multilingual framenet	1
+picture generating system	1
+ud	1
+probabilistic networks	1
+a rule-based and mt-oriented approach	1
+a process grammar processor	1
+a left-to-right tagger	1
+topic distribution quantization and negative sampling decoder	1
+deep attention matching network	1
+a reusable lexical database tool	1
+multiattentive recurrent neural network architecture	1
+up	1
+a collaborative tool	1
+dual fixed-size ordinally forgetting encoding (fofe)	1
+a microphone array system	1
+the ritel interactive question answering system	1
+open-source language processing tools	1
+a weighted finite state transducer implementation	1
+social interfaces	1
+transition-based knowledge graph embedding	1
+single word embedding	1
+a conversational environment	1
+a multi-path architecture	1
+an mdl-based approach	1
+a graphical citation browser	1
+asynchronous deep interaction network	1
+an open source library	1
+an english-polish machine translation system	1
+neural semi-markov conditional random fields	1
+ceu-upv english-spanish system	1
+latent space embedding	1
+naive bayes and bilstm ensemble	1
+global bootstrapping neural network	1
+a generic generation architecture	1
+crf-based chinese word segmentation	1
+structured alignment networks	1
+casict-dcu neural machine translation systems	1
+deep contextualized embeddings	1
+test suites	1
+a hybrid deterministic parser	1
+an interaction-over-interaction network	1
+an entity-centric coreference resolution system	1
+out-of-domain corpus within ebmt	1
+a linear-time bottom-up discourse parser	1
+the first step towards multilingual wordnets	1
+xml-based nlp tools	1
+gan	1
+a residual bilstm-crf model	1
+unsupervised multilingual word embedding	1
+end-to-end simultaneous translation system	1
+wordnet-lmf	1
+bidirectional lstm-cnns	1
+lrscore	1
+the framework of complex networks	1
+human language technology program	1
+hpi question answering system	1
+dependency-based mt framework	1
+rdf/rdfs and owl	1
+a simple surface realization engine	1
+a highly multilingual environment	1
+advanced human-computer interface and voice processing applications	1
+a neural lemmatizer	1
+a bi-model based rnn semantic frame parsing model	1
+knowledge-based systems	1
+semi-automatic linking verbalex	1
+gruen	1
+mipt system	1
+the rhetorical structure theory framework	1
+korean proofreading system	1
+unitran	1
+joint textual and phonetic embedding	1
+danish asr	1
+an english-japanese translation system	1
+a morpho-syntactically informed lstm-crf model	1
+task-specific embeddings	1
+lium machine translation systems	1
+inter-weighted alignment network	1
+mmax2	1
+an open source tool	1
+siamese cnn and lstm	1
+a portable natural language interface	1
+an extensible architecture	1
+a light lexicon-based mobile application	1
+a framework and its applications	1
+comparative parser performance analysis across grammar frameworks	1
+wordnet synsets can improve text retrieval	1
+gated convolutional networks	1
+multi-model smt	1
+a hierarchical ideal point topic model and its application	1
+fine-grained morphosyntactic analysis and generation tools	1
+a cd-rom retrieval system	1
+the kernel architecture	1
+c5.0 and exhaustive search	1
+a syntactically expressive morphological analyzer	1
+thai morphological analyzer	1
+an improved neural baseline	1
+a transformational-based learner	1
+a new yardstick and tool	1
+a multi-platform annotation ecosystem	1
+language exploration tools	1
+lstm recurrent neural networks	1
+an adaptive mt system	1
+an unsupervised joint system	1
+multilingual transformers	1
+semantically-informed syntactic mt	1
+a paradigm-based finite state morphological analyzer	1
+adversarial and domain-aware bert	1
+eigenword embeddings	1
+an extensible multimedia annotator	1
+a paraphrase generation system	1
+an improved mdl-based compression algorithm	1
+guide bootstrapped entity classifiers	1
+promt translation systems	1
+a bert-based universal model	1
+hierarchical convolutional attention networks	1
+out	1
+sighan-8 bake-off	1
+muse and elmo embeddings	1
+unified multimodal transformer	1
+syntactically meaningful and transferable recursive neural networks	1
+semantic na\"\ive bayes classifier	1
+a deep-learning framework	1
+hierarchical siamese networks	1
+deep copycat networks	1
+a web interface	1
+a dual pointer network	1
+a lexicon-based graph neural network	1
+global textual relation embedding	1
+team gplsi. approach	1
+rule-based and statistical dependency parsers	1
+wordhood memory networks	1
+the nbu plt platform	1
+siamese lstm	1
+a categorial grammar learner	1
+multilingual uima-based nlp platform	1
+a novel discriminative framework	1
+pronoun resolution system	1
+a phrase based statistical machine translation system	1
+a high-performance coreference resolution system	1
+the meteo case	1
+holistic comparison of language generation systems	1
+hierarchical convolutional neural networks	1
+libsvm	1
+massively-parallel networks	1
+parfda	1
+drum	1
+the applications	1
+fast prototyping a dialogue comprehension system	1
+multi-column convolutional neural network	1
+bipartite flat-graph network	1
+a robust dialogue system	1
+promt deephybrid system	1
+data collection and ipr	1
+a robust cross-domain text-to-sql system	1
+a computer program	1
+hybrid mt	1
+inference networks and structured prediction energy networks	1
+a sentence interaction network	1
+hong kong and china (1984-2014)	1
+a hybrid japanese parser	1
+an abstract machine	1
+ontosem	1
+wat-sl 2.0	1
+a question-answer system	1
+a cyclic dependency network	1
+general conditional random fields	1
+biomedical question answering system	1
+a persona-grounded chit-chat generation framework	1
+domain focused named entity recognizer	1
+phrase based smt	1
+a supervised part-of-speech tagger	1
+a large public domain portuguese wordnet	1
+bustuc--a natural language bus route adviser	1
+relationlistwise	1
+incremental hmm alignment	1
+supervised bigram-based ilp	1
+distributional thesaurus embedding	1
+entity-pair embedding	1
+educational trading platforms	1
+youtube	1
+semantically conditioned lstm-based natural language generation	1
+a hybrid cnn-rnn alignment model	1
+knowledge and its application	1
+evaluating crfs and semantic roles	1
+natural language processing (securenlp)	1
+structural knowledge graph-aware network	1
+semante	1
+a parameter-based message-passing parser	1
+named entity recognition of lab protocol	1
+deep linguistic parsers	1
+a bilstm-based system	1
+a spoken language understanding system	1
+real-time on-line translation system	1
+three english learner assistance systems	1
+text and speech mt	1
+nouveau-rouge	1
+active deep networks	1
+time-aware word embeddings	1
+a stacking gated neural architecture	1
+scalable applications	1
+implementation	1
+differentia compositionem facit. a slower-paced and reliable parser	1
+a bengali speech synthesizer	1
+a virtual human dialogue system	1
+contextualized embeddings and treebank embeddings	1
+sentence-state lstm	1
+clarin	1
+episodic memory	1
+the d.x. beaumont hyperpartisan news detector	1
+hierarchical attentive graph neural network	1
+automatic word alignment tools	1
+a language-independent system	1
+an interactive web-interface	1
+morphology-syntax interface	1
+an experimental environment	1
+the qt21 combined machine translation system	1
+biobert embeddings	1
+a chain-starting classifier	1
+deep residual networks	1
+improve base np parsing performance	1
+cross-media analysis frameworks	1
+tipster	1
+irt-based aggregation model	1
+a corpus-based tool	1
+discourse-specific word embeddings	1
+a regional cnn-lstm model	1
+shahmukhi transliteration system	1
+a conversation system	1
+a multilingual lexicographic environment	1
+msr-nlp	1
+deep convolution recurrent neural network	1
+a lexical-semantic net	1
+phoneme embeddings	1
+reinforced pointer generator network	1
+a syntax-oriented parsing system	1
+bert language model	1
+hmm based chunker	1
+a factorization machine framework	1
+a finite-state morphological analyzer	1
+expand conceptnet	1
+the pdtb annotator	1
+the metal machine translation system	1
+simple overlap features and svms	1
+a submodular feature-aware framework	1
+unitn end-to-end discourse parser	1
+comprehensive part-of-speech tag set and svm based pos tagger	1
+a uniform formal framework	1
+a xml-based term extraction tool	1
+procedural reasoning networks	1
+a uniform tag-based generation system	1
+adaptive mt environments	1
+non-normative understanding systems	1
+a tag-based noisy-channel model	1
+a neural network system	1
+rnn architectures	1
+mime- nlg support	1
+argumentative conversational agents	1
+rdf (s)	1
+carpanta	1
+gmt	1
+deep communicating agents	1
+wordnet embeddings	1
+a complete and modestly funny system	1
+heterogeneous graph neural networks	1
+a hierarchical multiscale neural network	1
+efficient second-order treecrf	1
+uch-upv english--spanish system	1
+attention-based decoder	1
+bionlp-ost 2019	1
+feature-augmented neural networks	1
+multiple annotators	1
+a negotiating appointment setting interface	1
+spanish ner	1
+iristk	1
+dual-alu processor	1
+transformer networks	1
+a simplified pircs system	1
+smaller text classifiers	1
+timeline	1
+use multilingual nlp tools	1
+out-of-vocabulary embeddings	1
+a hybrid generative/discriminative framework	1
+a two-level morphological analyser and generator	1
+a multilingual corporate environment	1
+covid-fact	1
+bilingually-constrained phrase embeddings	1
+the japanese wordnet	1
+a granularity-aware annotation tool	1
+a typed feature structure rewriting system	1
+a biomedical question answering system	1
+a syntax-directed translator	1
+a frame-like system	1
+a systemic parser	1
+neural network baseline	1
+a more robust pcfg-la parser	1
+text simplification tools	1
+a knowledge hunting framework	1
+a chinese lpcfg parser	1
+a knn ensemble	1
+skill-based conversational agent	1
+a multi-purpose interface	1
+rbmt plus spe and preordering plus smt	1
+wordnet and framenet	1
+an implemented classifier	1
+forward-backward recurrent neural networks	1
+a theory and its implementation	1
+character n-gram embeddings	1
+ipr versus processing issues	1
+a comprehensive nlp system	1
+a unification-based framework	1
+use mt	1
+a service-oriented architecture	1
+hmm word and phrase alignment	1
+a generic multi-lingual open source platform	1
+english monolingual srl	1
+chinese word segmentation around crfs	1
+pca	1
+event-based hyperspace analogue	1
+newer tools	1
+generalized lr parsing and confusion matrix	1
+pitagger	1
+a novel two-stage framework	1
+linguistic insights and computational applications	1
+a drt-implementation	1
+a high-density conversational ai platform	1
+improved semantic-aware network embedding	1
+an attentive neural architecture	1
+deployed spoken dialog systems	1
+a strong and robust baseline	1
+a new architecture	1
+an hpsg account	1
+a neural parser	1
+gsg	1
+ice-gb and wordnet	1
+a multipurpose multimodal tool	1
+an efficient active learning framework	1
+open-source platform	1
+example-based spoken dialogue system	1
+end-to-end systems	1
+a uima database interface	1
+research papers into a patent classification system	1
+a new integrated open-source morphological analyzer	1
+a multimodal environment	1
+an extended architecture	1
+the speechalyzer toolkit	1
+a two-stage domain selection framework	1
+a natural language database query system	1
+baidu neural machine translation systems	1
+an annotation system	1
+t\"ub\.itak-b\.ilgem german-english machine translation systems	1
+thai categorial grammars and their applications	1
+the tagged corpus (syn2010)	1
+dialogue corpora collection (endiacc)	1
+romanian natural language processing systems	1
+multi-task deep neural network	1
+an oral history annotation tool	1
+multi-module recurrent neural networks	1
+asian wordnet (awn)	1
+crfs and logic	1
+a supersense sequence tagger	1
+a deep neural information fusion architecture	1
+bayesian synchronous tree-substitution grammar induction and its application	1
+sense annotated corpora and tools	1
+a cfg or a dcg	1
+a feature-rich framework	1
+xml/xsl	1
+relational markov networks	1
+a hybrid research system vs. three commercial systems	1
+a natural language generation system	1
+nrc russian-english machine translation system	1
+enhance word embeddings	1
+voted ner system	1
+a bilstm architecture	1
+babelnet 2.0	1
+an automatic error tagger	1
+glance visualizes lexical phenomena	1
+moses-based official baseline	1
+a cfg	1
+sciwing-- a software toolkit	1
+domain invariant convolutional neural network	1
+attention-based recurrent convolutional neural network	1
+a visual regular expression development environment	1
+support vector regression and ranknet	1
+prepnet	1
+the ovis spoken-dialogue system	1
+from intuitionistic proof nets	1
+a non-monotonic arc-eager transition system	1
+a bert-based system	1
+force-decoded attention and cross-lingual embeddings	1
+terseo + t2t3 transducer. a systems	1
+contextual dynamic network	1
+clp bake-off 2014	1
+incremental sigmoid belief networks	1
+english-czech mt	1
+complementary systems	1
+deep recurrent neural networks v2.0	1
+bjtu\_nlp neural machine translation system	1
+a multi-sentiment-resource enhanced attention network	1
+a voicexml gateway	1
+the gw/lt3 vardial 2016 shared task system	1
+german-russian mt	1
+trigger-aware lattice neural network	1
+spoken dialogue interface	1
+pie	1
+a general transition-based dag parser	1
+grammar extraction and its applications	1
+an efficient syntactic tagging tool	1
+the alvis format	1
+mates/ek	1
+domain-independent natural language database access systems	1
+shared-private bilingual word embeddings	1
+discourse relation sense classification systems	1
+case mkbeem system	1
+mineral	1
+multimodal dbn	1
+lexical sample wsd	1
+the lrc machine translation system	1
+nlg and natural language dialog systems	1
+the pdtb-3	1
+a deep network	1
+dually interactive matching network	1
+context sensitive convolutional neural networks	1
+ibm word alignment model 1	1
+character-level lstm language models	1
+a multi-perspective architecture	1
+using an attention-based cnn-lstm	1
+paclic 27 workshop	1
+a discriminative latent variable chinese segmenter	1
+a dg account	1
+constraint-based frameworks	1
+shallow hybrid mt systems	1
+a lexicalized tag	1
+a two-stage statistical word segmentation system	1
+recurrent networks	1
+indowordnet development	1
+a probabilistic and a constraint grammar parser	1
+the babel program	1
+cilin	1
+nomlex	1
+knn and svm	1
+the wag sentence generation system	1
+an extended transition-based amr parser	1
+recurrent markov cluster (rmcl) algorithm	1
+mmax	1
+from dtd	1
+a uima-supported web-based workbench	1
+iitp-mt system	1
+ter and terp	1
+an incremental parser	1
+a user-initiative dialogue system	1
+web information mining and decision support platform	1
+elan and iso dcr	1
+improve the covax system	1
+vietnamese person named entity question answering system	1
+practical implementation	1
+compositional and non-compositional phrase embeddings	1
+a tv program discovery dialog system	1
+a bilstm compound splitter	1
+neural tensor networks	1
+rte3	1
+formal tools	1
+docbert	1
+african wordnet	1
+assist customer care agents	1
+semi-markov conditional random fields	1
+pmi	1
+a hybrid pomdp dialog manager	1
+an open web platform	1
+a recurrent convolutional network	1
+analyses tools	1
+language documentation tools	1
+diaglossic and code-switched environments	1
+multilayer perceptron	1
+an ai-inspired intelligent agent/student architecture	1
+a real city environment	1
+parallel implementations	1
+stackoverflow	1
+polarity pagerank	1
+an hmm-based approach	1
+conditional random fields and babelnet	1
+structured learning ensemble and contextualised embeddings	1
+an incremental earley parser	1
+toolkit	1
+attention cnn-lstm	1
+a development tool	1
+mix-order graph attention networks	1
+svm and crf	1
+smt and hybrid systems	1
+dual-source transformer	1
+compare parsers	1
+a beam search phrase-based decoder	1
+hmeant	1
+random forests and recurrent neural networks	1
+the lmu munich neural machine translation system at wmt19	1
+noisy environments	1
+an efficient text summarizer	1
+a context zoom-in network	1
+dynamic continuized ccg	1
+summarist	1
+smart environments	1
+bidirectional attentive memory networks	1
+a deep encoder-decoder network	1
+features of an unsupervised system	1
+rule-based and crf methods	1
+a terminology-enhanced cat tool	1
+robust non-explicit neural discourse parser	1
+reason comparing networks	1
+pb-smt	1
+latent support vector machines	1
+the social media arabic dialect corpus (smadc)	1
+a deep ensemble system	1
+direct hmm	1
+gpt-2	1
+speech processing applications	1
+medical applications	1
+semi-supervised wsd	1
+people and wordnet	1
+task-oriented domain-specific meta-embedding	1
+pps	1
+xml-based phrase alignment	1
+the paradigm program	1
+event extraction classifiers	1
+attention-free encoder decoder	1
+pipeline architectures	1
+convolutional networks	1
+long short term memory	1
+svms and string similarity measures	1
+an user friendly system	1
+a paraphrase and semantic similarity detection system	1
+an issue-oriented syllabus retrieval system	1
+gis application improvement	1
+indowordnet	1
+a robust and efficient morpho-syntactic analyzer	1
+natural language systems	1
+pair hmm	1
+a textual processor	1
+attend	1
+the seaside project (project abstract)	1
+multi-level dual-context language and bert	1
+liu-wsd	1
+unsupervised faq retrieval	1
+stimulate the hlt sector	1
+an entity-driven framework	1
+intelligent interface	1
+word embedding evaluation datasets and wikipedia title embedding	1
+acl vs. emnlp	1
+resource-light neural networks	1
+a scientific field	1
+the lincoln robust csr	1
+the ims--cuboulder system	1
+yet another platform	1
+recursive neural networks and recursive lstms	1
+a character-level convolutional neural network	1
+a full end-to-end dialogue system	1
+the annotation graph toolkit	1
+livac and sketch search engine compared	1
+an analogical learner	1
+a negotiation agent	1
+the apva-turbo approach	1
+two tools	1
+character-based smt	1
+the att-meta approach and system	1
+heterogeneous natural language processing tools	1
+a dependency-based parser	1
+simsensei kiosk	1
+attentive memory networks	1
+svm machine-learning algorithm without dictionary support	1
+psg	1
+interface \& enrichment tool (sapient)	1
+an integrated syntactic and semantic system	1
+manner relations and its applications	1
+semidirectional lambek grammar is np-complete	1
+cross lingual information access system	1
+hci	1
+the pangloss system	1
+attention-based convolutional neural networks	1
+a hybrid word and consonant cmm	1
+the computer	1
+a hierarchical neural network	1
+interactive systems	1
+an integrated development environment	1
+a large-vocabulary continuous speech recognition algorithm and its application	1
+nict self-training approach	1
+seq2seq convolutional networks	1
+a robust and efficient parser	1
+clp-2014 bakeoff	1
+sundial	1
+iwslt 2020	1
+a web-based evaluation framework	1
+dihana	1
+mmil	1
+multisource neural ner transfer	1
+n-gram-based smt system enhanced	1
+flat-lattice transformer	1
+lexical network	1
+a kernel pca model	1
+a powerful and versatile xml format	1
+acord	1
+the field of the environment	1
+multiple existing wordnets	1
+an hpsg framework	1
+the linked data framework	1
+joint relational embeddings	1
+end-to-end system	1
+response-anticipated memory	1
+dependency-guided lstm-crf	1
+a latent-variable pcfg model	1
+arabic error correction system	1
+an automatic speech recognition system	1
+a bi-directional lstm-crf model	1
+doubly-attentive decoder	1
+chunk-based bi-scale decoder	1
+dstc	1
+web search engines	1
+the gtu grammar development environment	1
+a fast and flexible webinterface	1
+syntactic frames and lsa	1
+service offerings (blaise)	1
+hybrid deep belief networks	1
+mobile communication environment	1
+??bert????????????(a bert-based end-to-end model	1
+a mobile environment	1
+leverage kernel-based traditional nlp features and neural networks	1
+attention-based bidirectional long short-term memory networks	1
+context-aware character-enhanced embeddings	1
+the comic dialogue system	1
+the niutrans machine translation systems	1
+gated recurrent neural networks	1
+the ibm flight information system	1
+an enriched semantic network	1
+practical grammar-based nlg	1
+the metal mt-system	1
+comparison between nmt and pbsmt performance	1
+an open-source package	1
+rdi unsupervised framework	1
+the multra machine translation system	1
+a self-adaptive classifier	1
+a hybrid arabic error correction system	1
+a graph parser library	1
+quotes and multi-modal ccg	1
+uzurich	1
+recurrent polynomial network	1
+pmi-based word embeddings	1
+a modular system	1
+a new corpus and imitation learning framework	1
+a shallow parser	1
+chaki	1
+weighted rational transductions and their application	1
+deep fusion lstms	1
+a descriptive phrase finder	1
+xgboost	1
+the paparazzo hyperpartisan news detector	1
+large product key memory	1
+crf-based experiments	1
+an empathetic personality recognition system	1
+illc-uva translation system	1
+a multi-answer multi-task framework	1
+neural architecture	1
+autindex	1
+an abstract reference architecture	1
+a snack implementation and tcl/tk interface	1
+map-based word aligner	1
+an integrated digital tool	1
+a machine learnable discourse tagging tool	1
+tree-stack lstm	1
+a structured svm semantic parser augmented	1
+an open source python toolkit	1
+the fulcrum syntactic analyzer	1
+the bbn spoken language system	1
+mindnet	1
+general purpose text embeddings	1
+virtual environments (give-2)	1
+a general-knowledge question-answering system	1
+kazakh segmentation system	1
+cache transition systems	1
+phrase-level grammars and trainable classifiers	1
+rcnn	1
+an operation network	1
+a seed-driven bottom-up machine learning framework	1
+the nyu-cuboulder systems	1
+dynamic conditional random fields	1
+the platforms	1
+speech understanding systems	1
+an lfg-based parser	1
+different compound splitting tools	1
+customized neural machine translation systems	1
+user modelling and a dialogue interface	1
+label embedding	1
+the gdef case	1
+a modular tool	1
+lag framework	1
+a large vocabulary continuous speech recognition system	1
+swrl	1
+an italian linguistic knowledge system	1
+using cnn-lstm model	1
+cavat	1
+end-to-end trainable task-oriented dialogue systems	1
+soba	1
+languagetool	1
+with applications	1
+an hpsg-based parser	1
+a norwegian letter-to-sound engine	1
+aspect-specific graph convolutional networks	1
+the sketch engine	1
+social media platforms	1
+the tendum system	1
+user embeddings	1
+unsupervised stemmer	1
+a naive bayes sentiment classifier	1
+framenet annotations alignment	1
+a tagged corpus and a tagger	1
+conditional random field(crf) based named entity recognition(ner)	1
+the peace slds understanding evaluation paradigm	1
+multi-task framework	1
+char-rnn	1
+a massively parallel computer	1
+syntactic and word2vec-based approach	1
+pairwise fasttext classifier	1
+a bangla synthesizer	1
+bigrams and bilstms two neural networks	1
+analogy-based ebmt	1
+the sonlp-dp system	1
+nadia	1
+an educational platform	1
+tenets	1
+a synset relation-enhanced framework	1
+learning unsupervised svm classifier	1
+a web-based grammar development environment	1
+a hierarchical classifier	1
+web-based listening test system	1
+the transtype2 project	1
+one-class deep neural network	1
+a comparison between pipeline and end-to-end architectures	1
+lstm neural networks	1
+auxiliary memory	1
+a bilingual attention network	1
+the lorelei representative and incident language packs	1
+japanese numeral classifiers	1
+the cued mt system	1
+finite state morphology tool	1
+a supervised learning word sense disambiguation system	1
+a ranking system	1
+a lightweight and efficient document representation framework	1
+hmm and cotraining model	1
+cnn-lstm-crf	1
+mismatched semantic parsers	1
+a reading comprehension system	1
+the code annotator	1
+a multilingual machine translation system	1
+a robust system	1
+similarity based auxiliary classifier	1
+random walk weighting over sentiwordnet	1
+a graph-based parser	1
+real-time spoken dialogue systems	1
+datenbank-dialog and the relevance	1
+an adversarial multi-task network	1
+an optimised fs pronunciation resource generator	1
+latent dirichlet allocation within a clinical application	1
+semi-supervised qa	1
+hmm	1
+a ptt model	1
+the swedish-turkish parallel corpus and tools	1
+an lstm-crf based approach	1
+the acl anthology knowledge graph miner	1
+multi-stage architecture	1
+wmt 2019	1
+a vsm-based statistical model	1
+situated dialogue systems	1
+a terminological network	1
+wmt 2011	1
+distributed health and fitness companion dialogue system	1
+a gold anaphora annotation layer	1
+a simple baseline	1
+a tt-mctag	1
+models and tools	1
+an improved parser	1
+a data-centric architecture	1
+a pronunciation training system	1
+heterogeneous graph transformer	1
+enhanced tools	1
+shallow language processing architecture	1
+$\lambda$-drt	1
+a pos tagging model adapted	1
+the mop system	1
+flexycat	1
+svcca	1
+the extended architecture	1
+attention-based capsule networks	1
+chart-based transfer rule application	1
+knowledge-driven event embedding	1
+cov model and its application	1
+multi-level embeddings	1
+a finite-state morphological processor	1
+edit scripts and recurrent neural embeddings	1
+hal-based cascaded model	1
+the rwth system	1
+a case-driven parser	1
+czech word embeddings	1
+the mflts system	1
+an interactive spoken language translation system	1
+event embeddings	1
+an mp3 player	1
+a gradient-ascent maximum entropy learner	1
+a high-performance learning name-finder	1
+sentence-level evidence embedding	1
+transfer learning and bert-bilstm-capsule model	1
+boost the fraunhofer iais speech recognition system	1
+a multi-type multi-span network	1
+the dualneighbors algorithm	1
+a hierarchical network	1
+graph convolutional and recurrent neural networks	1
+the wordnet category	1
+covid-19 surveillance	1
+biomedical ie	1
+relaxed marginal inference and its application	1
+ensemble bert-bilstm-attention model	1
+end-to-end dialog agents	1
+chinese ir	1
+robust embeddings	1
+a context-aware nlp approach	1
+the sjtu system	1
+conditional crowdsourcing models and word embeddings	1
+simt use	1
+multilingual voice creation toolkit	1
+dependency-based gated recursive neural network	1
+modularized syntactic neural networks	1
+biomedical ir	1
+syntax-aware multi-sense word embeddings	1
+a cyk+ variant	1
+a lexical functional grammar system	1
+a universal framework	1
+syntactically aware neural architectures	1
+multiple instance learning networks	1
+a dialogue interpretation system	1
+segment-level neural conditional random fields	1
+example-based framework	1
+gated graph neural networks	1
+a real-world pomdp-based system	1
+a random forest classifier	1
+a language processing toolkit	1
+a neural expectation-maximization framework	1
+segmental neural nets	1
+develop an esl/efl error correction system	1
+the tv game la ghigliottina	1
+representations and architectures	1
+many-to-one phrase-based smt	1
+task-oriented spoken dialog systems	1
+features and the parser	1
+recurrent entity networks	1
+the cngl-dcu-prompsit translation systems	1
+talp phrase-based statistical translation system	1
+a web-based general purpose annotation tool	1
+2d trie	1
+human similarity judgements and contextualised word embeddings	1
+cnec1.0	1
+a crf pipeline	1
+a self learning vocal interface	1
+arabic language weka-based dialect classifier	1
+speech applications	1
+bilingual sentence embeddings	1
+transductive svm and semantic heuristics	1
+multimodal embeddings	1
+low level tasks supervised at lower layers	1
+bayesian nets	1
+from 1998	1
+the isle computational lexicon working group	1
+the dop estimation method is biased and inconsistent	1
+speech and natural language applications	1
+evaluate a chatbot system	1
+quadratic features and deep architectures	1
+semantic dependencies and wordnet	1
+an xml-based representation format	1
+an efficient lr parser generator	1
+neural dialogue system	1
+hierarchical cvae	1
+resources and a baseline system	1
+morphological tools	1
+multitask tensor networks	1
+the ontology-lexicon interface	1
+a robust retrieval engine	1
+a probabilistic earley parser	1
+a bimachine compiler	1
+2019	1
+2018	1
+erim generic platforms	1
+an unsupervised word sense disambiguation system	1
+posterior-regularized reinforce	1
+english clir	1
+a robust keyword spotting system	1
+rnns and lstms	1
+read forbackward	1
+multi-cell compositional lstm	1
+a web-scale system	1
+open source framework	1
+topical attention-based lstm	1
+compound unit recognizer	1
+f-score driven max margin neural network	1
+a gene ontology semantic tagger	1
+telephone dialog system	1
+sala ii	1
+the mdi algorithm	1
+very simple tools	1
+efficient support vector classifiers	1
+context-aware embedding	1
+metrical stress systems	1
+conditional markov models and classifiers	1
+a robust and flexible platform	1
+task-specialized word embeddings	1
+rule based morphological analyzer	1
+the ims open corpus workbench	1
+python	1
+acl 2007 workshop	1
+the neural machine translation decoder	1
+caos--a tool	1
+a common multimedia annotation framework	1
+synset links between cornetto and princeton wordnet	1
+the lig machine translation system	1
+an open-source tool	1
+tipster phase ii	1
+videoqa	1
+hermit nlu	1
+ets team	1
+an intelligent agent	1
+a maximum entropy word aligner	1
+multi-kernel gaussian process classifier	1
+the dynasand corpus and its application	1
+domain specific mt	1
+a new neural search and insights platform	1
+a fast and accurate dependency parser	1
+gbgen	1
+paraphrase and event embeddings	1
+multi-sense lstms	1
+the iso lmf	1
+naive bayes classifier	1
+the multra system	1
+generate numeral classifiers	1
+literary social networks	1
+ugent-lt3 scate system	1
+crfs-based named entity recognition incorporated	1
+an evaluation measure and a test suite	1
+a complex nl system	1
+an nlp approach	1
+emoji usage across platforms	1
+crf-based translation models	1
+deep structured neural network	1
+reference network	1
+knowledge-powered word embedding	1
+dialogue based intelligent tutoring systems	1
+the bleu method	1
+dynamic n-best selection and its application	1
+a general knowledge environment	1
+qjp	1
+large distributed ai systems	1
+machine	1
+a processing platform relating data and tools	1
+a morphological processor	1
+large margin synchronous generation and its application	1
+translationese improves smt	1
+serious game environment	1
+machine translation at ldc	1
+an efficient compiler	1
+intranet learning tools	1
+soft-label chain conditional random field	1
+multi-document convolutional neural networks	1
+a bilingual wordnet	1
+character-based neural embeddings	1
+parallel fda5	1
+the microsoft toolkit	1
+a limited domain speech-to-speech translation system	1
+english-to-korean and korean-to-english neural machine translation systems	1
+a multi-annotator environment	1
+second order co-occurrence pmi	1
+the sri core language engine	1
+presemt	1
+probabilistic finite state machines	1
+a unified mrc framework	1
+language-gesture enabled (ai) embodiment	1
+contextual string embeddings	1
+a retrieval-based and generative argumentative dialogue agent	1
+morphological analysis can improve a ccg parser	1
+an em clustering model	1
+hierarchical pointer networks	1
+for an iso standard	1
+a morphological analysis toolkit	1
+vocal interface	1
+a contextual knowledge-enhanced gpt model	1
+character-based bidirectional lstm-crf	1
+iq test	1
+viterbi em	1
+artificially built subsystems	1
+enhance a disease outbreak report text mining system	1
+a translation memory	1
+p/2 than p2	1
+the clarin knowledge centre	1
+graph transformer networks	1
+chinese-to-korean smt	1
+the equer evaluation campaign	1
+an interactive analytic tool	1
+the fasil project	1
+inference-based learner-like agent	1
+an open-source environment	1
+a stochastic japanese morphological analyzer	1
+wmt14	1
+arabic machine translation system	1
+wmt17	1
+the flarenet action plan proposal	1
+natural language dialogue systems	1
+a g2p experiment	1
+dialog interactions between french speaking virtual and human agents	1
+multilingual lexical network	1
+multimodal transformer networks	1
+an interactive environment	1
+statistical mt	1
+bidirectional lstm-crf model	1
+a multilingual dependency analysis system	1
+a web tool	1
+maintain rule-based named-entity recognition and classification systems	1
+a rule-based system	1
+a debug tool	1
+statistical models and wordnet	1
+machine translation and classifiers	1
+delexicalized dependency parsers	1
+sms based interface	1
+spokesman	1
+a modular and highly efficient text processing framework	1
+a discrete cvae	1
+the lexicon markup framework	1
+a knowledge delivery system	1
+speech recognition packages	1
+hierarchical attention neural networks and support vector machine	1
+mncd	1
+the omnia project	1
+task-oriented dialogue generation systems	1
+the character-based crf segmenter	1
+the mllp-upv supervised machine translation systems	1
+an ml dependency parser	1
+bi-lstm	1
+continuous and discrete language embeddings	1
+using a lstm-attention model	1
+natural language database interface	1
+open ie	1
+a pipeline framework	1
+phrasal generator	1
+google web 1t 5-grams made easy (but not	1
+itg transition rnn	1
+sogou neural machine translation systems	1
+a basic language resource kit	1
+lvcsr	1
+an automated framework	1
+an editorial network	1
+in-car spoken dialogue system	1
+a suite	1
+a protocol	1
+an intelligent flashcard application	1
+chained classifiers	1
+politeness systems	1
+diaml and anvil	1
+uplugweb--corpus tools	1
+a discrete hard em approach	1
+modified finite newton method support vector machines	1
+a fast and portable realizer	1
+an unsupervised co-reference detection system	1
+online conditional random fields	1
+a bilingual system	1
+synchronous-cfg driven statistical mt	1
+the liga (lig/lia) machine translation system	1
+a simpler and more generalizable story detector	1
+spiqa	1
+crfs and vector space representations	1
+phylogenetic tools	1
+language resource management system	1
+wctanalyze	1
+programs	1
+the european parliament interpreting corpus (epic)	1
+parallel corpus search tools	1
+the strategic computing program	1
+parliamentary protocols	1
+twitter (pit)	1
+an effective and robust framework	1
+clinical nlp	1
+linguistic suite	1
+a reconfigurable stochastic tagger	1
+two multimodal interfaces	1
+prolog-based bottom-up parsing system	1
+tactical nlg	1
+adaptive transformers	1
+a paraphrasing system	1
+ian	1
+an empirically-based system	1
+a joint named-entity recognizer	1
+a formal semantic parser	1
+a partial document retrieval system	1
+multi-step ensemble neural network	1
+contextualized embedding	1
+auto-correlational neural networks	1
+a hybrid machine translation system	1
+unsupervised multilingual sentence embeddings	1
+exploration improves a greedy stack lstm parser	1
+rdfa editor	1
+ilp based multiple chunk aligner	1
+the trec experience	1
+ancient greek wordnet	1
+uneven margins svm and perceptron	1
+strategy and implementation	1
+concept networks	1
+self-attentive residual decoder	1
+the item search engine	1
+tmu japanese-english neural machine translation system	1
+factual memory networks	1
+the evaluation of conversational dialogue systems	1
+speech dialog systems	1
+a semi-supervised stable variational network	1
+multi-lingual constraint system	1
+a multi-domain framework	1
+from a constrained english pos tagger	1
+an annotation type system	1
+the concept dictionary implementation	1
+a single qa system	1
+utterance rewriter	1
+a robust event recognizer	1
+cuni and lmu systems	1
+the talp-upc machine translation systems	1
+recursive neural conditional random fields	1
+cascaded classifiers	1
+document-level transformer	1
+a stylistic and content-based classifier	1
+zero-shot cross-lingual dialogue systems	1
+an abstract generation system	1
+text classification neural networks	1
+the cass technique	1
+squad	1
+maximum margin reward networks	1
+semantic web applications	1
+a two-level system	1
+a high recall error identification tool	1
+improve multilingual partial parsers	1
+sgml	1
+crfs and precision grammars	1
+tts systems	1
+rouge	1
+a dom tree alignment model	1
+oaqa at bioasq 5b	1
+a scalable mmr approach	1
+multiple character embeddings	1
+the iso data category registry	1
+neural responding machine	1
+educational systems	1
+automatic data selection and neural network	1
+the osu system	1
+memory-enhanced decoder	1
+bionlp 2011	1
+a woz study	1
+ebmt practical	1
+neural character embeddings	1
+sighan-8	1
+semantic clustering and convolutional neural network	1
+a practical incremental learning framework	1
+evomsa and ?tc	1
+nxt search	1
+a web-retrieval-based image caption generation system	1
+the ibm 1 translation model	1
+residual cnn-lstm network	1
+a switching dynamical system	1
+the netviz terminology visualization tool and the use cases	1
+a temporally sensitive submodularity framework	1
+the nyu system	1
+sql database interface	1
+the russian national corpus (rnc)	1
+hypergraph attention networks	1
+machine translation at wmt 2019	1
+latent structure perceptron	1
+using a multi-channel cnn-lstm model	1
+locally-trained word embeddings	1
+distributional semantic embedding	1
+neural cross-lingual coreference resolution and its application	1
+an automatic close copy speech synthesis tool	1
+agent-aware dropout dqn	1
+an italian surface realizer	1
+multi-modal recurrent neural networks	1
+verbal fields	1
+feed-forward neural networks	1
+original semantics-oriented attention and deep fusion network	1
+a sentiment detection engine	1
+sequence-to-sequence rnns and beyond	1
+a knowledge-aware sequence-to-tree network	1
+attention-based multi-perspective convolutional neural networks	1
+suis--cross-language ontology-driven information retrieval	1
+scene graph embeddings	1
+sounds wilde. phonetically extended embeddings	1
+an interactive rewriting tool	1
+an evidence based earthquake detector	1
+hindi machine translation system	1
+dublin core and marc 21	1
+two hundred sentiment analysis systems	1
+the textcoop platform	1
+an existing text understanding system	1
+the cmu-haifa system	1
+pos tagset design	1
+dynamic environments	1
+an inference chain-based gpt model	1
+anglabhart-ii architecture	1
+share text revision across languages and improve mt a posteriori	1
+stringnet	1
+automatic annotation suggestions and custom annotation layers	1
+a knowledge-based tutorialsystem	1
+wide-coverage nlp	1
+hyperbolic knowledge graph embeddings	1
+multi domain word2vec	1
+tell bert that death is not necessarily informative	1
+neural network classifiers	1
+a chinese discourse marker tagger	1
+semsim	1
+slot-consistent nlg	1
+high quality elmo embeddings	1
+a hybrid dependency parser	1
+the psi/phi architecture	1
+neural chess engine	1
+biomedical chinese-english clir	1
+siamese networks	1
+experiments and observations at rte-3	1
+a telugu dialogue system	1
+the gem dtd	1
+a stochastic parts program and noun phrase parser	1
+permanent magnetic articulograph (pma) vs electromagnetic articulograph (ema)	1
+an open source framework	1
+policy networks	1
+an online topic modeling framework	1
+cluttered environments	1
+a url language model segmentation approach	1
+a post-editing interface	1
+pronominal anaphora resolution without a parser	1
+improve the evaluation of grammatical error detection systems	1
+the lemlat 3.0 package	1
+l2 translation assistance	1
+simple and effective curriculum pointer-generator networks	1
+a personalized data-to-text support tool	1
+ice-gb	1
+posterior regularized em	1
+e-commerce system	1
+a data transformer interface	1
+robust and scalable differentiable neural computer	1
+free open-source software packages	1
+a graphical pronoun analysis tool	1
+hyperbolic embeddings	1
+japanese framenet	1
+lstm approach	1
+exretriever	1
+the spoken dutch corpus (cgn)	1
+decoder	1
+a linear baseline classifier	1
+self-attentional models application	1
+hfst-twolc	1
+the coda system	1
+proposed architecture	1
+dual attention transfer network	1
+neural machine translation at nmt-2018	1
+inductively-learned word pronunciation systems	1
+text level graph neural network	1
+the rgnlp machine translation systems	1
+modality-controlled environments	1
+a symbolic and sub-symbolic integrated system	1
+transportable natural-language interfaces	1
+triplet network	1
+build an extendable and portable ie-based summarisation system	1
+a generalised hybrid architecture	1
+statistical spoken dialogue systems	1
+prosody/parse scoring and its application	1
+a generic anaphora resolution engine	1
+the mt-in-the-middle attack	1
+dependency tree-based srl	1
+an lcs-based approach	1
+network	1
+swedish framenet	1
+using crfs	1
+medline	1
+wikipedia named entities based wordnet	1
+a predictive sinhala text input system	1
+a domain adaption word segmenter	1
+pre-trained language representations and minimal task-specific architecture	1
+a hybrid cnn-lmtgru network	1
+an ontology and word embeddings	1
+context-based twitter embeddings	1
+modular resource development and diagnostic evaluation framework	1
+operation-guided neural networks	1
+the checker	1
+an nlg system	1
+hpsg-style	1
+the unix natural language help system goethe	1
+an hmm-based method	1
+cross-lingual joint entity and word embedding	1
+a new tool	1
+the 2008 acl workshop	1
+an authorship tool	1
+a grammar formalism and parser	1
+an experimental text-to-speech system	1
+a plot advice agent	1
+valence information and application	1
+hands-on nlp	1
+an integrated environment	1
+incremental transformer	1
+semi-supervised teacher-student architecture	1
+mqm-dqf	1
+graph convolution networks	1
+scholarly document processing (sdp)	1
+gazetteer-enhanced attentive neural networks	1
+fine tuning bert	1
+a general optimization framework	1
+an innovative platform	1
+co-stack residual affinity networks	1
+kernel graph attention network	1
+english translation system	1
+an svm classifier	1
+a conditional random field word segmenter	1
+an adaptable task-oriented dialog system	1
+the project inel	1
+intelligent conversational agents	1
+smt at wat 2017	1
+character-level word embeddings	1
+the international standard linguistic annotation framework	1
+elan and a case study	1
+a summarization system	1
+continuous speech recognition at dragon systems under the darpa sls program	1
+query-directed sparse transformer	1
+a rule-based human interpretation system	1
+ner performance	1
+the laix systems	1
+two successive bidirectional gated recurrent networks	1
+monolingual word alignment and neural embeddings	1
+table filling multi-task recurrent neural network	1
+gated relevance network	1
+a grammar and a parser	1
+geta-run	1
+a machine translation system lute	1
+a combinatorial framework	1
+a bi-lstm-cnn model	1
+the candide system	1
+the relhunter approach	1
+ensemble recurrent neural network	1
+a unified system	1
+amharic part-of-speech tagger	1
+the niutrans machine translation system	1
+webcoop	1
+naist-cmu at wat2016	1
+eosc	1
+lstm autoencoders	1
+conversational word embedding	1
+a noisy channel model framework	1
+an automatic scoring system	1
+the lincoln tied-mixture hmm csr system	1
+a novel joint framework	1
+cross document co-reference resolution applications	1
+global-to-local neural networks	1
+shared encoder and language-specific decoders	1
+a unified linear-time framework	1
+a knowledge-based system	1
+the generalised perceptron	1
+neural network architectures	1
+a python natural language processing toolkit	1
+the xle experience	1
+word-context character embeddings	1
+man vs. machine	1
+the system	1
+kunlp grammatical error correction system	1
+predpatt and open ie	1
+japanese advertising slogan generator	1
+a wordnet-based approach	1
+georal tactile	1
+wcdg	1
+a three-step deterministic parser	1
+tgi+.2 classifier	1
+enhanced embeddings	1
+aidarabic a named-entity disambiguation framework	1
+linguistic networks	1
+large-scale text retrieval systems	1
+a hybrid parser	1
+knowpipe	1
+svms perform better than rnns	1
+an interactive speech-to-speech translation system	1
+the dcu system	1
+a logic-based government-binding parser	1
+omnifluent english-to-french and russian-to-english systems	1
+english-hindi smt	1
+a cross-entropy based generative adversarial network	1
+atlas content management system	1
+adversarial deep averaging networks	1
+a segmental recurrent neural network	1
+turkish and an annotation environment	1
+long short-term memory-networks	1
+the lingo grammar matrix customization system	1
+multimedia blog creation system	1
+an lstm approach	1
+a bert case study	1
+multi-granularity interaction network	1
+features-rich crf	1
+a multi-domain environment	1
+the wysinnwyg approach	1
+nlp frameworks	1
+an open architecture	1
+intelligent artificial agents	1
+multiplicative tree-structured long short-term memory networks	1
+a probe and a parser	1
+at the lexicon-grammar interface	1
+wcfg	1
+parsec	1
+qa semantic parsers	1
+the webvectors toolkit	1
+exemplar encoder-decoder	1
+discriminative classifiers	1
+multilayer recurrent networks	1
+language-independent hybrid mt	1
+ner systems	1
+standard arabic machine translation system	1
+a short answer grading system	1
+recursive lstm tree representation	1
+bupt systems	1
+collaborative graph network	1
+embodied artificial agents	1
+the twin personality-based recommender system	1
+an amharic text-to-speech system	1
+extended named entity recognition api and its applications	1
+evaluate non-treebank parsers	1
+a probabilistic parser	1
+hmm-lr method	1
+coreference resolution system	1
+page-based documents within the genre and multimodality framework	1
+a tv drama	1
+shalt2- a symmetric machine translation system	1
+me and svm	1
+informal word identification and paraphrasing system	1
+recurrent positional embedding	1
+two-step classifiers	1
+a conversational interface	1
+context-aware word embeddings	1
+a unified syntax-aware framework	1
+database systems	1
+a general architecture	1
+design automatic mood detection systems	1
+hyperspherical relation embeddings	1
+crfs and perceptrons meet neural networks	1
+crf and logistic regression	1
+stochastic answer networks	1
+a statistical mt approach	1
+an automatic trend exploration system	1
+neural constituency parsers	1
+clp2012	1
+type-based mcmc	1
+arabic text classifiers	1
+the nl2kr platform	1
+the ravenclaw dialog management architecture	1
+the pasta web system	1
+entity-consistent end-to-end task-oriented dialogue system	1
+a distributed cloud-based dialog system	1
+large-scale real time nlp systems	1
+ultradense word embeddings	1
+an interactive fiction system	1
+web data and the em algorithm	1
+annotations and tools	1
+fine-tune bert	1
+atr-slt system	1
+a minimalist nmt toolkit	1
+cascaded semantic and positional self-attention network	1
+language resources and annotation tools	1
+a trapper protocol	1
+a multi-task baseline system	1
+attention-based lstm	1
+linguistically informed relation extraction and neural architectures	1
+pos n-gram profiles and high-dimensional embeddings	1
+a subcategorization acquisition system	1
+system	1
+a dependency-driven parser	1
+attention and lexicon regularized lstm	1
+the kmp algorithm	1
+an arabic morphological analyzer and generator	1
+weighted lexical networks	1
+acoustic word embeddings	1
+a large-scale nl query system	1
+croatian word embeddings	1
+a practically-focussed undergraduate program	1
+a sick cure	1
+an open environment	1
+iness search	1
+speech comparison	1
+arabic word embeddings	1
+bilstm and svr ensemble	1
+hierarchical networks	1
+2d convolutional neural networks	1
+procedures and tools	1
+robotreviewer	1
+the epireader	1
+chunk-based decoder	1
+a generative probabilistic ocr model	1
+speech phrasebook translator	1
+ie rule development	1
+jointly learning representations and label embeddings	1
+attentive bilstms	1
+metamind neural machine translation system	1
+ict-nlp	1
+mc-tag	1
+character neural embeddings	1
+the princeton wordnet	1
+autodirective microphone systems	1
+a label informative wide \& deep classifier	1
+corenet	1
+the jirs passage retrieval system	1
+high recall open ie	1
+rnn encoder-decoder networks	1
+multidialectal word embeddings	1
+conditional random fields and na\"\ive bayes classifiers	1
+the owlexporter	1
+commercial implementation	1
+back propagation neural network	1
+a generative adversarial network	1
+a software	1
+an hnm based scheme	1
+glove	1
+using a bert and cnn-bilstm-gru model	1
+the 1998 dri working group	1
+an hpsg	1
+a lexical simplification tool	1
+chinese input system	1
+an itg	1
+identify reuse transformations and its application	1
+a model-theoretic framework	1
+discriminative transfer parsers	1
+a web-based english abstract writing tool	1
+multi-purpose development and operation environments	1
+graph-to-graph transformer	1
+tag-enhanced tree-structured neural networks	1
+phrase embeddings	1
+confused supervised lda	1
+a nlg-based application	1
+the jhu parallel corpus filtering systems	1
+english mt	1
+the open framework	1
+all	1
+1999 joint sigdat conference	1
+recurrent neural networks and word embeddings	1
+random permutations (earp)	1
+galaxy-ii	1
+word re-embedding	1
+language independent transliteration system	1
+a unified pos tagging architecture and its application	1
+a lexical network	1
+automatically bootstrapping a persian wordnet	1
+automatic post editing system	1
+data management plan (dmp)	1
+attention-based graph neural network	1
+review opinion diversification (revopid-2017)	1
+openlogos and google translate	1
+a transparent framework	1
+context-sensitive neural lemmatizer	1
+the evaluation of tts systems	1
+a three-layer architecture	1
+biaffine classifiers	1
+the blark concept and blark	1
+a contextual hierarchical attention network	1
+enhance mongolian-chinese smt	1
+the paradise evaluation framework	1
+intelligent tutoring systems	1
+smt and vice versa	1
+multi-domain multi-modal dialogue system	1
+a knowledge graph-based question answering and infor-mation retrieval system	1
+the transcheck system	1
+the thumbs up! twente system	1
+edit machines	1
+a tool/database interface	1
+a question answering application	1
+an online e-learning tool	1
+structured svm ensemble classification models	1
+and	1
+universal dependencies v2	1
+american norwegian speech (cans)	1
+ros	1
+a unified learning framework	1
+generative bridging network	1
+the replay-dh client	1
+a common parts-of-speech tagset framework	1
+graph module network	1
+subword-augmented embedding	1
+rapid development of interactive spoken interfaces	1
+a map task dialogue system	1
+the cultural heritage of the eu	1
+a prank call rejection system	1
+a character-based nmt approach	1
+reversible nlp	1
+a dynamic semantics system	1
+mixture density networks	1
+a generative parser	1
+a hierarchical translation memory	1
+model-based word embeddings	1
+beam-search incremental parsers	1
+component-based multimodal dialog interfaces	1
+idea unit embedding	1
+coupled hierarchical transformer	1
+stagewise fine-tuning bert	1
+discriminative phrase embedding	1
+attentive neural networks	1
+the finite-state formalism idarex	1
+pre-trained bert	1
+tagger	1
+construct statistical dialogue systems	1
+an improved earley parser	1
+model and applications	1
+cross-domain ner	1
+an efficient and effective online sentence segmenter	1
+a state-independent and time-evolving network	1
+the argument workbench	1
+topic templates and structured convolutional decoders	1
+the hit-scir system	1
+a fully-lexicalized japanese parser	1
+bbn valad	1
+single-model encoder-decoder	1
+a distributed environment	1
+rule- and neural network-based information extraction systems	1
+distributional neural networks	1
+a universal system	1
+a robust abstractive system	1
+lig system	1
+stanford part-of-speech tagger	1
+an evolving escience environment	1
+a rule-based machine translation system	1
+two heterogeneous gated recursive neural networks	1
+hybrid named entity recognition system	1
+a smart system	1
+hierarchical attentive heterogeneous graph network	1
+indonesian-japanese clir	1
+feature systems	1
+the mllp-upv spanish-portuguese and portuguese-spanish machine translation systems	1
+dynamic virtual environments	1
+a state-transition framework	1
+a document management system	1
+multimodal nlg	1
+arabic morphological analyzer	1
+grammatical framework (gf)	1
+a stratificational mt-system	1
+object-oriented neural programming (oonp)	1
+a hand-crafted parsing system	1
+syntactically supervised transformers	1
+siamese bert-networks	1
+a sat-solver	1
+wordnet ilr	1
+simple parser	1
+improved evaluation framework	1
+conditional sequence generative adversarial nets	1
+statistical-based system	1
+boost centroid text classifier	1
+a bootstrapped probabilistic classifier	1
+an object-oriented linguistic engineering environment	1
+cyclic consistency based product review generator	1
+a fast boosting-based learner	1
+a recurrent neural network architecture	1
+nrc machine translation system	1
+the se/cm perspective	1
+alep	1
+multi-head attention transformers	1
+a probabilistic modeling framework	1
+the nite workbench. a tool	1
+multiple parsers	1
+a rule-based morpho-semantic analyzer	1
+lstm voting system	1
+intractable parsers	1
+japanese-russian tmu neural machine translation system	1
+a convex ibm model 2	1
+agenda-based semantic parsers	1
+cascaded lexicalised classifiers	1
+a non-connectionist molecular machine	1
+an ocr system	1
+the parlance mobile application	1
+distributional inclusion vector embeddings	1
+rst	1
+two darpa speech and natural language programs	1
+tts applications	1
+k-nn	1
+convolution-enhanced bilingual recursive neural network	1
+bidirectional lstm over dependency paths	1
+bi-lstm neural networks	1
+a spoken recommendation system	1
+lorelei	1
+a wikipedia-lda model	1
+limited domain systems	1
+cuni multilingual matrix	1
+domain knowledge empowered structured neural net	1
+graph transformers	1
+art	1
+sequence similarity networks	1
+a language-independent anaphora resolution system	1
+covid-19 twitter chatter	1
+an intelligent multilingual information browsing and retrieval system	1
+an interactive poetry generation system	1
+the regulus development environment	1
+a generator-evaluator framework	1
+the cmu/interact arabic gale transcription system	1
+two bengali dependency parsers	1
+the webcoop experiment	1
+hierarchically-refined label attention network	1
+document-based recommender system	1
+key-value retrieval networks	1
+attentive convolutional neural network	1
+a vocal dialogue system	1
+multi-instance multi-label convolutional neural networks	1
+a context-aware natural language generator	1
+multiplex word embeddings	1
+asr	1
+deep attention-based neural networks	1
+from framenet	1
+ensemble gradient boost tree classifier	1
+an efficient two-pass decoder	1
+a multilingual phonological resource toolkit	1
+an adaptive web application	1
+the qarla framework	1
+abstract machine	1
+a new text engineering platform	1
+dialogue based question answering system	1
+multi-level gated recurrent neural network	1
+a portable natural language front end	1
+the lmu system	1
+an lfg parser	1
+an interleaved e-book reading tool	1
+a shallow neural network	1
+deep learning system	1
+hypernet	1
+prototype machine translation system	1
+rdf and sparql	1
+the igen generator	1
+conceptnet	1
+a sentiment analysis framework	1
+semantic framework	1
+a speech dialogue system	1
+an mt learning environment	1
+character-based psmt	1
+text generation applications	1
+lightweight annotation and adjudication tools	1
+korean framenet	1
+a question-answering engine	1
+hybrid semi-markov crf	1
+lstm neural reordering feature	1
+various haitian creole text- and speech-based nlp systems and applications	1
+transs-driven joint learning architecture	1
+target-sensitive memory networks	1
+the gretel treebank query application	1
+a multi dimension capsule network	1
+cuni systems	1
+a svm-based model	1
+relevant semantic trees and semcor senses frequency	1
+a statistical spoken dialogue system	1
+a xml-based tool	1
+machine translationand an english classifier	1
+an example-based system	1
+an e-learning environment	1
+multi-hop selector network	1
+multimeteo	1
+a concatenative text-to-cued speech system	1
+domain-agnostic non-slot reduction and pretrained contextual embeddings	1
+the dcc project	1
+low rank fusion based transformers	1
+healthcare (lre 62-007)	1
+oz driven prototyping framework	1
+lfg (lexical functionnal grammar) and cg (conceptual graphs)	1
+mona	1
+speech-based information retrieval system	1
+a technical question answering system	1
+an embedding	1
+semi-supervised conditional random fields	1
+adversarial framework	1
+real-valued syntactic word vectors (rsv)	1
+a multi-level semantic processor	1
+a syntax-aware multi-task learning framework	1
+birzeit arabic dialect identification system	1
+a constituent-centric neural architecture	1
+the pdtb and ccr frameworks	1
+the 2nd workshop	1
+gated embeddings	1
+a conditional random field-based traditional chinese base phrase parser	1
+a hybrid tool	1
+parameter-free sentence embedding	1
+a computer-based glaucoma consultation system	1
+the pax toolkit	1
+an automatic plagiarism detection system	1
+densely connected graph convolutional networks	1
+a lightweight and efficient tool	1
+an interactive hypermedia tool	1
+bidirectional lstm network	1
+dependency path embeddings	1
+entity-balanced gaussian plsa	1
+czeng 1.0	1
+fst morphology	1
+a labelled analytic theorem proving environment	1
+a chinese writing correction system	1
+vallex 1.0	1
+a pipeline system	1
+voice-driven interfaces	1
+large vocabulary speech recognition applications	1
+your self-driving car	1
+a multi-lingual multi-task architecture	1
+sxlfg	1
+rapidly deploying a neural search engine	1
+covid-19 literature topic-based search	1
+a part-of-speech tagger	1
+a transition-based multi-task parser	1
+a flexible menu-based controlled natural language system	1
+graph memory networks	1
+attention-based lstms	1
+a noun phrase parser	1
+kb retriever	1
+active production networks	1
+latent structured alignments and abstract programs	1
+seeded lda	1
+attention-based deep neural networks	1
+100 american sign language signs produced	1
+hmm-lda	1
+english-chinese clir	1
+financial text data analytics framework	1
+a statistical nlg framework	1
+the pluto project	1
+biomedical knowledge graph embeddings	1
+average meta-embedding	1
+an online computational framework	1
+some novel applications	1
+conversational dialogue systems	1
+a lightweight evaluation framework	1
+an attention-based lstm model	1
+a lexicon-based sentiment analysis system	1
+arabert	1
+answer localization system	1
+sci-bert stacked	1
+a statistically-derived phonetic network	1
+effectively pretraining a speech translation decoder	1
+dico ii+	1
+bert and glove embeddings	1
+bidirectional recurrent convolutional neural network	1
+a discourse commitment-based framework	1
+a crf model and lexical resources	1
+large smt data-sets extracted	1
+from resource maintenance (blark)	1
+a unified architecture	1
+greek transliteration system	1
+iso 1951	1
+massively multilingual sentence embeddings	1
+a discourse signal annotation system	1
+skip-gram word embeddings	1
+program input parsers	1
+a word segmentation system	1
+a three-stage disfluency classifier	1
+a mixed-initiative conversational dialogue system	1
+a narrative composition support environment	1
+a weighted semantic network	1
+superocr	1
+a network-based writing system	1
+an online learning environment	1
+a versatile framework	1
+speaker-based attribute selection and trainable realization (attr)	1
+a modelling system and a test suite	1
+a deep parser	1
+a unicode-based environment	1
+using a cnn-lstm model	1
+1993 methodology	1
+pre-trained transformer	1
+an open-source auditory periphery modeling toolkit and evaluation	1
+an ide	1
+phrasebook-style medical speech translation applications	1
+an unsupervised em method	1
+lexicalised tag	1
+the paninian framework	1
+hmm alignment model and crf	1
+a text-based search interface	1
+knowledge graph augmented neural networks	1
+hierarchical transformers	1
+bilstm-attention and lstm-attention	1
+a two-stage parser	1
+the metal system	1
+a decision tree classifier	1
+a sentence compression based framework	1
+a multilingual regular expression segmentor	1
+multilingual faq assistant	1
+attention-based bi-lstm model	1
+multilayered lstm	1
+a hybrid back-transliteration system	1
+sentiment bearing word embeddings	1
+synchronous linear context-free rewriting systems	1
+polnet 3.0	1
+an improved non-monotonic transition system	1
+an erp-based brain-computer interface	1
+a computational syntax and its application	1
+the clef experience	1
+a broad-coverage parser	1
+a one-shot semantic parser	1
+ga-ilmt	1
+an interactive japanese parser	1
+a multilingual framework	1
+nl-soar	1
+a cyber security event collection system	1
+tctract-a collocation extraction approach	1
+character-level representations improve drs-based semantic parsing even	1
+a speech-to-speech translation system	1
+a natural language oriented virtual human architecture	1
+a generic collaborative platform	1
+a discriminative candidate generator	1
+a self-learning system	1
+a bi-lstm approach	1
+attention-based neural networks	1
+nmf and linkage-based refinement	1
+improve performancein a bottom-up parser	1
+a fully unsupervised parser	1
+augment cmu alignment algorithm	1
+gather language-classified urls. workflow and case study	1
+gru neural network	1
+tibaq	1
+the news personalization system	1
+wmt-metricsmatr 2010	1
+hidden markov random fields	1
+the xerox linguistic environment	1
+species into wordnet	1
+sighan 2015	1
+a baseline temporal tagger	1
+a post-editing workbench	1
+rdf and owl/dl	1
+statistical morph analyzer (sma++)	1
+vision-and-language bert	1
+the apertium spanish-brazilian portuguese machine translation system	1
+generalized discrimination networks	1
+ntealan dictionaries platform	1
+the general architecture	1
+an adaptive agent	1
+a library	1
+transition-based parser and iterative inference parser	1
+english spoken language translation system	1
+open data kit (odk)	1
+maltparser	1
+the properties and further applications	1
+a linear regression framework	1
+task-oriented word embedding	1
+financial word embeddings	1
+a phrase-based system	1
+hungarian morpheme-based statistical machine translation system	1
+a tree kernel-based unified framework	1
+corpora and tools	1
+independent classifiers	1
+an interactive programming system	1
+multi-unit transformers	1
+a scalable architecture	1
+a semantic search engine	1
+background and applications	1
+an incremental framework	1
+simple dynamic word embeddings	1
+a statistical nlp approach	1
+feature-based model versus convolutional neural network	1
+interpolated plsi	1
+the textract information extraction system	1
+improve smt-based paraphrasing model	1
+the namic approach	1
+an error analysis tool	1
+entity linking within a social media platform	1
+a hybrid deep learning architecture	1
+parallel interactive networks	1
+a computational workflow system	1
+computational environments	1
+kimmo systems	1
+failure transducers and applications	1
+a simple spoken dialogue system	1
+a stochastic decoder	1
+(1)	1
+aut document alignment framework	1
+the right tools	1
+panlingua-kmi mt system	1
+finite state tools	1
+a coreference corpus and resolution system	1
+blcu personal attributes extraction system	1
+the sphinx speech recognition system	1
+a telephone-based spoken dialog system	1
+multi-level memory networks	1
+attention-based bi-directional gru model	1
+a parallel recurrent neural network	1
+an automatic speech understanding system	1
+a message processing system	1
+a crf approach	1
+word segmentation systems	1
+a translation aid system	1
+deep feature fusion network architectures	1
+austkin ii	1
+deep recurrent generative decoder	1
+svms and a rich feature set	1
+the tei encoding scheme	1
+tree adjoining grammars systemic framework	1
+neural relation classification architectures	1
+a naive bayesian classifier	1
+a principle-based parser	1
+lexicon integrated convolutional neural networks	1
+a cross-linguistic look at the v2-phenomenon	1
+sub-words towards small nmt children	1
+dual constrained question embeddings	1
+prolog (chip)	1
+knowledge base embeddings	1
+multi-channel bilstm-crf model	1
+the mllp-upv german-english machine translation system	1
+human centered nlp	1
+automated feature-based system	1
+korean-chinese-japanese multilingual wordnet	1
+interactive text-to-sql	1
+a situated dialogue system	1
+lmu bilingual dictionary induction system	1
+a data-centric framework	1
+synonymy and homonymy networks	1
+an extended lr parsing algorithm	1
+a robust self-learning framework	1
+coarse lexical frame acquisition at the syntax--semantics interface	1
+nlg meeting weather industry demand	1
+a stratified lookup interface	1
+ai werewolf agent	1
+toolkits	1
+an nlp-based reading tool	1
+a text editor application	1
+a medical dialogue system	1
+a neural-crf approach	1
+implicitly-defined neural networks	1
+the d-spin text corpus format and its relationship	1
+multi-sense embeddings	1
+a rule-based question answering system	1
+speech system	1
+an attribute-grammar implementation	1
+a parlog implementation	1
+ukb is inadvertently state-of-the-art	1
+unsupervised rewriter	1
+a bidirectional-lstm approach	1
+an enhanced tool	1
+an hpsg-annotated test suite	1
+structural attention neural networks	1
+a voice enabled procedure browser	1
+language-based environment	1
+opennmt	1
+compositional phrase embeddings	1
+attributed and predictive entity embedding	1
+a client/server architecture	1
+an end-to-end generative architecture	1
+adversarial training and graph embeddings	1
+an interactive academic text revision system	1
+the c\&c parser	1
+a modularized text-to-speech framework	1
+cnn and gru network	1
+the cmu spoken language understanding system	1
+the formalism of gpsg	1
+morphocom	1
+a virtual assistant interface	1
+virtual human dialogue systems	1
+pegwriting®	1
+1-0 transformation form	1
+adversarial networks	1
+persuasive nlp	1
+an lr category-neutral parser	1
+a language detection system	1
+a gradient boosting-seq2seq system	1
+a sequence decoder	1
+smtpost	1
+a grammar development environment	1
+dedicom	1
+accurate semantic class classifier	1
+free-ordered cug	1
+separate head-tail cnn	1
+a position-aware bidirectional attention network	1
+spoken language dialogue systems	1
+a hierarchical translation system	1
+a constituency treebank annotation tool	1
+an ontology based architecture	1
+mobile wireless clients	1
+gradient boosting machines	1
+linked disambiguated distributional networks	1
+the plato paradigm	1
+a speech dialog system	1
+a rhetorical status classifier	1
+the multitag example	1
+jhu system combination scheme	1
+a statistical framework	1
+analog implementations	1
+a computer question-answering system	1
+clarin-dk	1
+deft	1
+the illinois-columbia system	1
+a biomedical literature indexing tool	1
+hierarchical lstms	1
+sighan bakeoff 2012	1
+a dp-based search	1
+hierarchical tree lstms	1
+distant supervision and sentiment-specific word embeddings	1
+a fast decoder	1
+agora. multilingual multiplatform architecture	1
+a cross-framework and cross-language test-suite generation tool	1
+webexperimenter	1
+a multi-source trainable parser	1
+a document-level smt system	1
+multiple conditional random fields	1
+character aligned models at news 2009	1
+a text processing system	1
+graph community detection and bio-bert embeddings	1
+multiple dialogue agents	1
+the arcade ii project	1
+cips-sighan joint conference	1
+variable memory	1
+an insight extraction system	1
+a spoken tutorial dialogue system	1
+a maxent-lda hybrid	1
+a deterministic dependency parser	1
+a caption generation system	1
+approaches and applications	1
+a web-based evaluation tool	1
+a support tool	1
+a pos-based model	1
+serverless architectures	1
+term set expansion based nlp architect	1
+an efficient indexer	1
+a software system	1
+sms	1
+virtual environments (give)	1
+an ntu-approach	1
+an automatic tool	1
+a document retrieval system	1
+syntactic smt	1
+indirect-hmm-based hypothesis alignment	1
+frame embeddings	1
+hindi machine transliteration system at news 2009	1
+task oriented agents	1
+the niutrans system	1
+a hybrid constituency-dependency parser	1
+web-based interfaces	1
+machine-aided translation tool	1
+a bilingual context mining and sentiment analysis summarization system	1
+a tree-structured long short-term memory	1
+a wordnet	1
+a graphical evaluation tool	1
+character-based recurrent neural networks	1
+l2 english	1
+subgraph embeddings	1
+nlp and public engagement	1
+pos and rmwe	1
+some applications	1
+aligned dual channel graph convolutional network	1
+the trec 2002 question answering track	1
+order embeddings	1
+a distributed platform	1
+work within the w3c internationalization activity and its benefit	1
+the meta-net framework	1
+triangular architecture	1
+a conversational system	1
+concept pointer network	1
+jeseme	1
+??????????????????(a recurrent interactive attention network	1
+neural crf autoencoder	1
+factored smt	1
+the carl kolchak hyperpartisan news detector	1
+the columbia system	1
+an interactive web-based user interface	1
+ocr evaluation tools	1
+an extensible toolkit	1
+neural grammatical error correction systems	1
+a context-theoretic framework	1
+quality estimation features and compositional bilingual word embeddings	1
+double-chained conditional random fields	1
+deep neural networks and word embeddings	1
+deep markov neural network	1
+a two-stage masked lm method	1
+the simsi project	1
+word and document embedding	1
+a finite-state framework	1
+a web-framework	1
+a practical speech-to-speech translator	1
+a speech interface	1
+token-level dynamic self-attention network	1
+relational graph convolutional network	1
+the babelnet api	1
+a representative suite	1
+a four-participant group facilitation framework	1
+both word-level and sentence-level attention network	1
+entity-aware dependency-based deep graph attention network	1
+dialogue knowledge transfer networks	1
+embedding grammatical features into lstms	1
+monolingual embeddings	1
+estonian natural language dialogue systems	1
+citation-informed transformers	1
+the sdl language weaver systems	1
+a ccg parser	1
+multiple cluster-based svm classifiers	1
+lexical networks	1
+cnn-lstm model	1
+word embeddings and deep neural networks	1
+a generalized lcs algorithm and its application	1
+the pos tagging problem	1
+sql	1
+locality-constrained nmf	1
+segment-level attention-based cnn and dependency-based rnn	1
+mandarin verb zou	1
+lexical chains meet word embeddings	1
+monolingual word embeddings	1
+multi-turn dialogue systems	1
+seq2seq	1
+pp attachment	1
+deep neural nets	1
+the chinfadial experiment	1
+an office environment	1
+the tacitus text understanding system	1
+a multilingual tts system	1
+hybrid neural architecture	1
+a complete annotation framework	1
+mongolian named entity recognition system	1
+squad 2.0	1
+graph transformer	1
+concept mentions within kdd-2009 abstracts (kdd09cma1) linked	1
+eurotra since 1983	1
+sense and word embeddings	1
+wn-toolkit and cro-deriv	1
+recurrent attention network	1
+rdf/owl format	1
+the analysis of italian into a multilingual linguistic complexity analysis tool	1
+a word learning program	1
+levenshtein transformer	1
+a chinese-english organization name translation system	1
+word representations and conditional random fields	1
+a neural discourse parser	1
+a cognitive framework	1
+an nltoolset-based system	1
+a multilingual named entity recognition system	1
+constrained crf models	1
+improved discriminative itg alignment	1
+multi-shifted recurrent neural network	1
+incremental recurrent neural network dependency parser	1
+kunlp system	1
+lium smt machine translation system	1
+user embedding	1
+a semantic memory	1
+a joint framework	1
+single and multiple pp attachment	1
+dcu terminology translation system	1
+hierarchical memory networks	1
+pads restoration and its importance	1
+lexicon-sensitive and left-right context-sensitive bilstm	1
+a unified multi-task adversarial learning framework	1
+an incremental ccg parser	1
+markov logic networks	1
+static and contextualized embeddings	1
+a valence shifting hybrid system	1
+a finnish semantic tagger	1
+tree-structured lstm	1
+linguistically-driven framework	1
+deep contextual word embeddings and neural architectures	1
+an inuktitut morphological analyzer	1
+modified brae	1
+verbal protocols	1
+average perceptron	1
+microphone arrays and neural networks	1
+data base systems	1
+state-of-the-art smt systems	1
+irst at senseval-3	1
+terminology-based text embedding	1
+a families-and-paradigms framework	1
+the c-phrase model	1
+concept embeddings	1
+a language model adaptation toolkit	1
+syntax aware lstm model	1
+a multithreaded conversational interface	1
+lof and one class svm	1
+the open wordnet	1
+ensemble dependency parsers	1
+an nlp framework	1
+an ltag approach	1
+a multi-genre smt system	1
+transformer-based multilingual indic-english neural machine translation system	1
+swine (h1n1) flu	1
+topic tensor network	1
+hierarchical attention architecture	1
+semantic role labeling system	1
+few-shot nlg	1
+manipuri-english bidirectional statistical machine translation systems	1
+rapidly deploying grammar-based speech applications	1
+context-dependent smt model	1
+memory networks	1
+pointer-generator	1
+cbmt	1
+a web-based demonstrator	1
+a help-desk system	1
+a verse-making tool	1
+an averaged perceptron tagger	1
+gaussian visual-linguistic embedding	1
+????????????????????(a multi-granularity semantic interaction understanding network	1
+gated multi-task network	1
+neural sentence embeddings	1
+jpsg parser	1
+a scalable decoder	1
+ostia	1
+delexicalized word embeddings	1
+transformer-based capsule network	1
+a text normalisation system	1
+turkish named entity recognition system	1
+document graph networks	1
+knowledge-enriched two-layered attention network	1
+a tagger	1
+the ldv-combo system	1
+an atn parser	1
+a light-weight web-based tool	1
+deep bidirectional transformers	1
+desr	1
+convolutional attention networks	1
+word-in-context (wic)	1
+notabene rdf annotation tool	1
+british sign language (bsl) translation system	1
+a novel cascade binary tagging framework	1
+form-driven dialogue systems	1
+the hidden markov model (hmm) and gaussian mixture model	1
+hmm and crf based hybrid model	1
+an image annotation tool	1
+the alt-web experience	1
+artificial neural networks	1
+a web-based framework	1
+pretrained word embeddings	1
+a hybrid russian-english machine translation system	1
+a visual tool	1
+tree-local multicomponent tag	1
+an english verb error correction system	1
+an ai-assisted lyrics creation system	1
+a first attempt toward a deep learning framework	1
+odenet and mmorph	1
+a simple and effective ir approach	1
+atng and its application	1
+word embedding networks	1
+term embeddings	1
+an open distributed architecture	1
+joint context-label embeddings	1
+the moses system	1
+urban dictionary embeddings	1
+rst-tace a tool	1
+open dutch wordnet	1
+a hybrid architecture	1
+the head-corner parser	1
+a domain-independent rule-based framework	1
+a statistical dialogue system	1
+the sas statistical machine translation system	1
+syntax-ignorant n-gram embeddings	1
+sl-trans2	1
+the darpa lorelei program	1
+a hybrid high quality machine translation system	1
+an example-based decoder	1
+tweetingjay	1
+an automatic translation system	1
+joint textual and social user embedding	1
+the moses decoder	1
+people and machines	1
+staggered nlp-assisted refinement	1
+early exiting bert	1
+an analytical platform	1
+a wide-coverage ccg parser	1
+web tools	1
+edge-enhanced graph convolution networks	1
+a single system framework	1
+disconnected recurrent neural networks	1
+real-world neural machine translation engines	1
+chinese framenet	1
+the etap system	1
+a high-precision machine learning framework	1
+a word-grammar based morphological analyzer	1
+a lime-flavored rest api	1
+knowledge based mat	1
+a distributed system	1
+proficiency level and l1	1
+multimodal meme dataset (multioff)	1
+negative full forms and its application	1
+synchronous tag	1
+speech interface	1
+dudes (short paper)	1
+deep learning based natural language processing system	1
+dynamically fused graph network	1
+3d environments	1
+nl technology	1
+urdu/hindi verbnet	1
+needs and tools	1
+role learning networks	1
+a finite-state compiler and library	1
+the textual history tool	1
+a context-preserving open information extraction system	1
+vtex determiner and preposition correction system	1
+the cobalt editor	1
+a single neural machine translation system	1
+chinese name matching and applications	1
+a visualisation tool	1
+attention-based lstm network	1
+incrementally learning a dependency parser	1
+hyperspace analogue	1
+deep gating network	1
+an open source corpus indexer and search engine	1
+embedded mt	1
+hoo 2012	1
+pro3gres parser	1
+a social conversational agent	1
+a long short-term memory framework	1
+linguistically annotated btg	1
+structured svms and rnns	1
+comparing crf and template-matching	1
+a hierarchical and bias tagging networks	1
+an integrated platform	1
+the darknet	1
+give me a bug. a framework	1
+semantic layer	1
+coupled-lstms	1
+re-usable tools	1
+rhetorically controlled encoder-decoder	1
+a text-driven rule-based system	1
+wavelet energy-based support vector machine	1
+higher-order syntactic attention network	1
+elmo sentence representation convolutional network	1
+a fast and lightweight system	1
+a just-in-time document retrieval system	1
+a microphone-array system	1
+deep weighted maxsat	1
+a reinforcement learning framework	1
+a recurrent entity network	1
+the correct and efficient implementation	1
+the nunavut hansard inuktitut--english parallel corpus 3.0	1
+a uniformed framework	1
+inthelex	1
+the irus natural language interface	1
+online em	1
+a data-driven spoken language understanding system	1
+stacked residual lstm networks	1
+transferable multi-domain state generator	1
+predictive embeddings	1
+cost-sensitive bert	1
+multinomial adversarial networks	1
+a compare aggregate transformer	1
+a rule-based stemmer	1
+leaf	1
+toward a domain independent generator	1
+a tree-based decoder	1
+xml web technology	1
+multi sense embeddings	1
+resource design and implementation	1
+adjective mapping between plwordnet and princeton wordnet	1
+an esl educational aid	1
+the lexicon pragmatics interface	1
+a mdl-based model	1
+a web based repository api	1
+lexflow	1
+synchronous tfg	1
+deep markov random fields	1
+graph lstms	1
+xml format	1
+deep neural network based system	1
+an hmm model	1
+ner: an efficient implementation	1
+a multi-domain translation environment	1
+stack residual lstm and trainable bias decoding	1
+a tag approach	1
+an attention-rnn	1
+a generic architecture	1
+nlp,ir,and ai	1
+the l0-norm	1
+an end-to-end attention-based neural network	1
+discriminatively-tuned generative classifiers	1
+the accept framework	1
+the speechmatics parallel corpus filtering system	1
+weat	1
+an intelligent authoring environment	1
+a variational autoencoding parser	1
+an lmf-based web service	1
+the bnc parsed	1
+a neural network parser	1
+naive and expert annotators	1
+diachronic wordnets	1
+yeast biology literature and protein-protein interaction networks	1
+the talp systems	1
+a graph-structured lstm	1
+tipster phase iii	1
+spoken intelligent tutoring systems	1
+ale into a cfg	1
+an implicit social network	1
+recurrent and convolutional neural networks	1
+the wordspace package	1
+a stochastic multi-level realizer	1
+precursor-induced crf	1
+a fragment and an implementation	1
+a reranking framework	1
+a robust and efficient framework	1
+conll 2015	1
+a prefix-correct earley recognizer	1
+common language resources and their applications	1
+the development of a grammar checker	1
+nmslib and flexneuart	1
+lstm-based importance weighting	1
+shallow convolutional neural network	1
+context sensitive interpretation environments	1
+a semantic tagger	1
+construct swedish framenet	1
+hierarchical graph network	1
+the askmsr question-answering system	1
+integrated nlp evaluation system	1
+conversational ai systems	1
+a simple evaluation framework	1
+a diagnostic evaluation approach targeting mt systems	1
+the bremen system	1
+a complete shift-reduce chinese discourse parser	1
+semantic proof nets	1
+smt consistency	1
+toward self-improving dialog systems	1

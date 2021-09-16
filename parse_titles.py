@@ -303,12 +303,43 @@ def read_file(input_file, output_dir):
 							
 				sol, rp, res, lang, meth, t = parse_line(title, rules_statistics)
 				output_file.write(title+'\n')
-				output_file.write('research_problem: '+str(rp)+'\n')
-				output_file.write('solution: '+str(sol)+'\n')
-				output_file.write('resource: '+str(res)+'\n')
-				output_file.write('language: '+str(lang)+'\n')
-				output_file.write('tool: '+str(t)+'\n')
-				output_file.write('method: '+str(meth)+'\n\n')
+				text = ''
+				if len(rp) > 0:
+					for word in rp:
+						text += word+'\t'
+					text = text.strip()
+					output_file.write('rp: '+text+'\n')
+				text = ''
+				if len(sol) > 0:
+					for word in sol:
+						text += word+'\t'
+					text = text.strip()
+					output_file.write('s: '+text+'\n')
+				text = ''					
+				if len(res) > 0:
+					for word in res:
+						text += word+'\t'
+					text = text.strip()
+					output_file.write('r: '+text+'\n')
+				text = ''					
+				if len(lang) > 0:
+					for word in lang:
+						text += word+'\t'
+					text = text.strip()
+					output_file.write('l: '+text+'\n')
+				text = ''					
+				if len(t) > 0:
+					for word in t:
+						text += word+'\t'
+					text = text.strip()
+					output_file.write('t: '+text+'\n')
+				text = ''					
+				if len(meth) > 0:
+					for word in meth:
+						text += word+'\t'
+					text = text.strip()
+					output_file.write('m: '+text+'\n')
+				output_file.write('\n')
 				
 				solution, research_problem, resource, language, tool, method = extend_lists_all(solution, sol, research_problem, rp, resource, res, language, lang, tool, t, method, meth)
 				
