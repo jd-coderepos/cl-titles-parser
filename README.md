@@ -3,8 +3,9 @@
 
 ### About
 
-**``CL-TitleParser``** parses and types phrases from the titles of *C*omputational *L*inguistics scholarly articles written in English for their scientific knowledge elements focused on scholarly contributions. 
-Specifically, it looks for phrases representing the following six semantic types: **_research problem_**, **_solution_**, **_resource_**, **_language_**, **_tool_**, and **_method_**.
+**``CL-TitleParser``** parses and types scientific entities from the titles of *C*omputational *L*inguistics scholarly articles written in English. 
+Specifically, types the entities as one of six concepts: **_research problem_**, **_solution_**, **_resource_**, **_language_**, **_tool_**, and **_method_**.
+
 It is developed as part of the [Open Research Knowledge Graph Project](https://www.orkg.org/) at [TIB](https://www.tib.eu/en/).
 
 The code released in this repository is the standalone version of the parser.
@@ -26,3 +27,22 @@ where *input_file* is a file with the papers' titles to be parsed with a new tit
 
 
 *Additional information on running the parser can be found* [here](https://github.com/jd-coderepos/cl-titles-parser/blob/master/data/README.md)
+
+
+### Citation
+
+If you use the title parser in your work, please cite our [ICADL 2021 Short Paper](https://arxiv.org/abs/2109.00199)
+
+```
+@article{d2021pattern,
+  title={Pattern-based Acquisition of Scientific Entities from Scholarly Article Titles},
+  author={D'Souza, Jennifer and Auer, Soeren},
+  journal={arXiv preprint arXiv:2109.00199},
+  year={2021}
+}
+```
+
+### News
+
+An updated version of the parser that extracts seven concepts from short titles is available [here](https://github.com/jd-coderepos/cl-shorttitles-parser).
+
