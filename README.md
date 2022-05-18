@@ -31,14 +31,22 @@ where *input_file* is a file with the papers' titles to be parsed with a new tit
 
 ### Citation
 
-If you use the title parser in your work, please cite our [ICADL 2021 Short Paper](https://arxiv.org/abs/2109.00199)
+If you use the title parser in your work, please cite our [ICADL 2021 Short Paper](https://doi.org/10.1007/978-3-030-91669-5_31). [Preprint available](https://arxiv.org/abs/2109.00199)
 
 ```
-@article{d2021pattern,
-  title={Pattern-based Acquisition of Scientific Entities from Scholarly Article Titles},
-  author={D'Souza, Jennifer and Auer, Soeren},
-  journal={arXiv preprint arXiv:2109.00199},
-  year={2021}
+@InProceedings{10.1007/978-3-030-91669-5_31,
+author="D'Souza, Jennifer
+and Auer, S{\"o}ren",
+editor="Ke, Hao-Ren
+and Lee, Chei Sian
+and Sugiyama, Kazunari",
+title="Pattern-Based Acquisition of Scientific Entities from Scholarly Article Titles",
+booktitle="Towards Open and Trustworthy Digital Societies",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="401--410",
+isbn="978-3-030-91669-5"
 }
 ```
 
