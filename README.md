@@ -31,7 +31,7 @@ where *input_file* is a file with the papers' titles to be parsed with a new tit
 
 ### Citation
 
-If you use the title parser in your work, please cite our [ICADL 2021 Short Paper](https://doi.org/10.1007/978-3-030-91669-5_31). [Preprint available](https://arxiv.org/abs/2109.00199)
+If you use the title parser in your work, please cite our [ICADL 2021 Short Paper](https://doi.org/10.1007/978-3-030-91669-5_31). Article [preprint](https://arxiv.org/abs/2109.00199) available.
 
 ```
 @InProceedings{10.1007/978-3-030-91669-5_31,
